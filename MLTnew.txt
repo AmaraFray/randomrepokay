@@ -463,3 +463,522 @@ Who is most likely to... Have a weird phobia?
 Who is most likely to... Tour the world by sea?
 Who is most likely to... Get kicked out of a cinema?
 Who is most likely to... Use a fake I.D. to get into a club?
+Who is most likely to... forget a loved one’s birthday? 
+Who is most likely to... forget an important event? 
+Who is most likely to... forget people’s names? 
+Who is most likely to... forget their spouse’s birthday? 
+Who is most likely to... forget their wallet/purse at a shop? 
+Who is most likely to... forget their wedding anniversary? 
+Who is most likely to... forget to shower? 
+Who is most likely to... forget to wear makeup? 
+Who is most likely to... forget what they told someone? 
+Who is most likely to... forget where they parked their car? 
+Who is most likely to... get punched in the face? 
+Who is most likely to... get robbed? 
+Who is most likely to... get shouted at by their parents? 
+Who is most likely to... get stranded on vacation? 
+Who is most likely to... get struck by lightning? 
+Who is most likely to... get stuck in a bathroom stall or on an elevator? 
+Who is most likely to... get stuck in a swing? 
+Who is most likely to... get the teacher off-topic? 
+Who is most likely to... get the whole gang in trouble? 
+Who is most likely to... get their car keyed? 
+Who is most likely to... get married first? 
+Who is most likely to... get married on the moon? 
+Who is most likely to... get offended by a joke? 
+Who is most likely to... get pissed and say something regretful? 
+Who is most likely to... get pregnant after a one-night stand and keep the baby? 
+Who is most likely to... get pregnant while on birth control? 
+Who is most likely to... go a week without a shower? 
+Who is most likely to... go back to teach at their high school? 
+Who is most likely to... go bankrupt? 
+Who is most likely to... go bungee jumping? 
+Who is most likely to... go crazy at the mall? 
+Who is most likely to... go fishing? 
+Who is most likely to... go surfing? 
+Who is most likely to... go grocery shopping for one thing, and come back with everything else than the one thing? 
+Who is most likely to... go hiking with strangers? 
+Who is most likely to... go on a blind date arranged by their mom? 
+Who is most likely to... go on a hunger strike? 
+Who is most likely to... go on a picnic date? 
+Who is most likely to... go on a space mission? 
+Who is most likely to... go on a World tour? 
+Who is most likely to... go over the top with a prank? 
+Who is most likely to... post a topless picture on their social media page? 
+Who is most likely to... go skinny dipping in winter when it’s snowing? 
+Who is most likely to... go skinny-dipping in the ocean? 
+Who is most likely to... go skydiving? 
+Who is most likely to... go snowboarding? 
+Who is most likely to... go the longest without eating? 
+Who is most likely to... go to a party in their pajamas? 
+Who is most likely to... go to jail for doing something stupid? 
+Who is most likely to... go off on their own on a night out? 
+Who is most likely to... go topless on the beach? 
+Who is most likely to... own a bar? 
+Who is most likely to... own a cruise ship? 
+Who is most likely to... own a gun? 
+Who is most likely to... own a Lamborghini? 
+Who is most likely to... own a power bike? 
+Who is most likely to... own a small business? 
+Who is most likely to... own a truck? 
+Who is most likely to... own a weird pet? 
+Who is most likely to... own a yacht? 
+Who is most likely to... own a zoo? 
+Who is most likely to... own an electric car? 
+Who is most likely to... own the most pets? 
+Who is most likely to... own a bar? 
+Who is most likely to... own a beauty salon? 
+Who is most likely to... own an illegal business? 
+Who is most likely to... own a beach house? 
+Who is most likely to... fall asleep during a movie? 
+Who is most likely to... fall asleep in class? 
+Who is most likely to... fall asleep in the cinema? 
+Who is most likely to... fall asleep on a date? 
+Who is most likely to... fall asleep on the bus and pass their station? 
+Who is most likely to... fall down the stairs? 
+Who is most likely to... fall in a shark tank? 
+Who is most likely to... fall in love with a stripper? 
+Who is most likely to... fall in love with a werewolf? 
+Who is most likely to... fall in love with the wrong person? 
+Who is most likely to... fall in love with their best friend’s boy/girlfriend? 
+Who is most likely to... fall in love with their teacher in college? 
+Who is most likely to... fall in the shower? 
+Who is most likely to... fall off a chair? 
+Who is most likely to... fall off a tree? 
+Who is most likely to... fall off the stage at a televised event? 
+Who is most likely to... fall off the stairs while holding a cake? 
+Who is most likely to... fall out with a friend over something stupid? 
+Who is most likely to... be a terrible detective? 
+Who is most likely to... be a terrible photographer? 
+Who is most likely to... be a terrible secretary of defense? 
+Who is most likely to... be a terrible secretary of state? 
+Who is most likely to... be a terrible UN ambassador? 
+Who is most likely to... be a terrible vice president? 
+Who is most likely to... be a horrible actor/actress? 
+Who is most likely to... be a horrible boss? 
+Who is most likely to... be a horrible president? 
+Who is most likely to... be a bad actor? 
+Who is most likely to... be a bad cop? 
+Who is most likely to... be a lousy taxi driver? 
+Who is most likely to... be a horrible boss? 
+Who is most likely to... be grumpy after a one-night stand? 
+Who is most likely to... be heartbroken? 
+Who is most likely to... be pregnant after a one-night stand? 
+Who is most likely to... be tired of their partner after two weeks? 
+Who is most likely to... be a bully? 
+Who is most likely to... be a daydreamer? 
+Who is most likely to... be a heartbreaker? 
+Who is most likely to... be afraid of watching horror movies? 
+Who is most likely to... be afraid to share their opinions in a conversation? 
+Who is most likely to... be allergic to cats/ dogs? 
+Who is most likely to... be an Alien? 
+Who is most likely to... be embarrassed when he/ she is around his/ her crush? 
+Who is most likely to... be friendly with animals? 
+Who is most likely to... be sad over an animal’s death? 
+Who is most likely to... be the Grinch on Christmas? 
+Who is most likely to... be the teacher’s pet? 
+Who is most likely to... eat a bug? 
+Who is most likely to... eat a toenail? 
+Who is most likely to... eat a whole pizza by themselves under half an hour? 
+Who is most likely to... eat cat food? 
+Who is most likely to... eat dog food? 
+Who is most likely to... eat something gross on a dare? 
+Who is most likely to... eat something off the ground? 
+Who is most likely to... eat something alive? 
+Who is most likely to... eat spaghetti with syrup? 
+Who is most likely to... eat the highest number of burgers within 10 minutes? 
+Who is most likely to... eat their birthday cake alone? 
+Who is most likely to... eat weird food? 
+Who is most likely to... eat when they’re bored? 
+Who is most likely to... eat without brushing their teeth? 
+Who is most likely to... eavesdrop on a conversation? 
+Who is most likely to... elope with a lover? 
+Who is most likely to... embarrass themselves at a meet and greet? 
+Who is most likely to... embarrass themselves in front of their crush? 
+Who is most likely to... embarrass themselves in public? 
+Who is most likely to... end the world? 
+Who is most likely to... end up alone? 
+Who is most likely to... end up in prison? 
+Who is most likely to... end up on Broadway? 
+Who is most likely to... end world hunger? 
+Who is most likely to... fail a driving test? 
+Who is most likely to... fail a math test? 
+Who is most likely to... fail a simple test? 
+Who is most likely to... faint if they met their favorite celebrity? 
+Who is most likely to... fake it until they make it? 
+Who is most likely to... fake their death? 
+Who is most likely to... develop a habit of biting their fingernails? 
+Who is most likely to... develop a habit of biting their lips? 
+Who is most likely to... develop a habit of biting their pen? 
+Who is most likely to... develop a habit of checking their hair/eyebrows/makeup/nails? 
+Who is most likely to... develop a habit of cracking their knuckles? 
+Who is most likely to... develop a habit of not brushing their teeth? 
+Who is most likely to... develop a habit of obsessively checking their mobile phone? 
+Who is most likely to... develop a habit of overeating? 
+Who is most likely to... develop a habit of overspending? 
+Who is most likely to... develop a habit of picking their hair? 
+Who is most likely to... develop a habit of saying “umm” and “ahhh”? 
+Who is most likely to... develop a habit of Shoplifting? 
+Who is most likely to... develop a habit of skin picking? 
+Who is most likely to... develop a habit of skipping breakfast? 
+Who is most likely to... develop a habit of skipping work? 
+Who is most likely to... develop a habit of snacking? 
+Who is most likely to... develop a habit of sucking their thumb? 
+Who is most likely to... develop a habit of talking to themselves? 
+Who is most likely to... develop a million-dollar app? 
+Who is most likely to... become a baby again? 
+Who is most likely to... become a bestselling author? 
+Who is most likely to... become a billionaire? 
+Who is most likely to... become a Bollywood star? 
+Who is most likely to... become a celebrity? 
+Who is most likely to... become a chess master? 
+Who is most likely to... become a comedian? 
+Who is most likely to... become a divorcee? 
+Who is most likely to... become a doctor? 
+Who is most likely to... become a famous actor/actress? 
+Who is most likely to... become a famous artist? 
+Who is most likely to... become a farmer? 
+Who is most likely to... become a firefighter? 
+Who is most likely to... become a freeloader? 
+Who is most likely to... become a gambler? 
+Who is most likely to... become a gigolo? 
+Who is most likely to... become a gold digger? 
+Who is most likely to... become a gossip columnist? 
+Who is most likely to... become a high school teacher? 
+Who is most likely to... become a magician? 
+Who is most likely to... become a member of the American Civil Liberties Union? 
+Who is most likely to... become a member of the NRA? 
+Who is most likely to... become a millionaire? 
+Who is most likely to... become a motivational speaker? 
+Who is most likely to... become a pilot? 
+Who is most likely to... become a poet? 
+Who is most likely to... become a police officer? 
+Who is most likely to... become a politician? 
+Who is most likely to... become a pop star? 
+Who is most likely to... become a famous singer? 
+Who is most likely to... become a priest/nun? 
+Who is most likely to... become a productivity junkie? 
+Who is most likely to... become a professional athlete? 
+Who is most likely to... become a professional gambler? 
+Who is most likely to... become a public figure? 
+Who is most likely to... become a rock star? 
+Who is most likely to... become a school janitor? 
+Who is most likely to... become a sports star? 
+Who is most likely to... become a successful stand-up comedian? 
+Who is most likely to... become a stripper? 
+Who is most likely to... become a stud? 
+Who is most likely to... become a successful politician? 
+Who is most likely to... become a supervillain? 
+Who is most likely to... become a superhero? 
+Who is most likely to... become a supermodel? 
+Who is most likely to... become a teacher? 
+Who is most likely to... become a terrorist? 
+Who is most likely to... become a travel blogger? 
+Who is most likely to... become a vegetarian? 
+Who is most likely to... become a world-famous actor (or actress) one day? 
+Who is most likely to... become addicted to candy? 
+Who is most likely to... become addicted to chewing gum? 
+Who is most likely to... become addicted to chocolate? 
+Who is most likely to... become addicted to cigarettes? 
+Who is most likely to... become addicted to clubbing? 
+Who is most likely to... become addicted to coffee? 
+Who is most likely to... become addicted to dairy? 
+Who is most likely to... become addicted to drinking soda/pop? 
+Who is most likely to... become addicted to drugs? 
+Who is most likely to... become addicted to eating fast food? 
+Who is most likely to... become addicted to emotional shopping? 
+Who is most likely to... become addicted to energy drinks? 
+Who is most likely to... become addicted to Facebook? 
+Who is most likely to... become addicted to M&M’s? 
+Who is most likely to... become addicted to Quora? 
+Who is most likely to... become addicted to Reddit? 
+Who is most likely to... become addicted to smoking? 
+Who is most likely to... become addicted to tea? 
+Who is most likely to... become addicted to Twitter? 
+Who is most likely to... become addicted to video games? 
+Who is most likely to... become addicted to watching reality television? 
+Who is most likely to... become addicted to YouTube? 
+Who is most likely to... become an Actor? 
+Who is most likely to... become an alcoholic? 
+Who is most likely to... become an animal rights activist? 
+Who is most likely to... become an astronaut? 
+Who is most likely to... become an atheist? 
+Who is most likely to... become an environmental advocate? 
+Who is most likely to... become an evil scientist? 
+Who is most likely to... become an internet celebrity? 
+Who is most likely to... become an internet troll? 
+Who is most likely to... become an undercover agent? 
+Who is most likely to... become bald-headed? 
+Who is most likely to... become famous for something stupid? 
+Who is most likely to... become famous? 
+Who is most likely to... become the FIFA World Player of the year? 
+Who is most likely to... become the president? 
+Who is most likely to... stay at home on Friday night? 
+Who is most likely to... stay in bed all day? 
+Who is most likely to... stay up all night thinking? 
+Who is most likely to... stay up late arguing with internet trolls? 
+Who is most likely to... stay up late playing video games? 
+Who is most likely to... stay up late sexting with random strangers on the internet? 
+Who is most likely to... marry first? 
+Who is most likely to... marry for something other than love? 
+Who is most likely to... marry someone, their friends and family hate? 
+Who is most likely to... marry their high school sweetheart? 
+Who is most likely to... marry a celebrity? 
+Who is most likely to... marry a closet gay person? 
+Who is most likely to... marry a foreigner for a Green Card? 
+Who is most likely to... marry a millionaire? 
+Who is most likely to... marry a rock star? 
+Who is most likely to... marry a stranger in Las Vegas? 
+Who is most likely to... Kiss & Tell? 
+Who is most likely to... kiss a frog? 
+Who is most likely to... kiss a monkey? 
+Who is most likely to... kiss his/her crush? 
+Who is most likely to... kiss their best friend? 
+Who is most likely to... have 1-hour showers? 
+Who is most likely to... have a borderline-inappropriate authority crush? 
+Who is most likely to... have a child before marriage? 
+Who is most likely to... have a crush on a co-worker? 
+Who is most likely to... have a crush on a teacher? 
+Who is most likely to... have a crush on an anime character? 
+Who is most likely to... have a crush on their boss? 
+Who is most likely to... have a nightmare within the next week? 
+Who is most likely to... have a disease named after them? 
+Who is most likely to... have a messy room? 
+Who is most likely to... have a million followers on social media? 
+Who is most likely to... have the most cliché tattoo? 
+Who is most likely to... have the most embarrassing tattoo? 
+Who is most likely to... have the most hair colors in their lifetime? 
+Who is most likely to... have the most lovers over the next five-year period? 
+Who is most likely to... have the highest number of children? 
+Who is most likely to... have the highest number of Facebook friends? 
+Who is most likely to... have the most piercings? 
+Who is most likely to... have the most side hustles? 
+Who is most likely to... have the most tattoos? 
+Who is most likely to... have the most terrible cooking skills? 
+Who is most likely to... have the lowest IQ level? 
+Who is most likely to... have their home destroyed by a storm? 
+Who is most likely to... have their nudes leaked? 
+Who is most likely to... have triplets? 
+Who is most likely to... have weird phobias? 
+Who is most likely to... have an interracial marriage? 
+Who is most likely to... have a kid before 18? 
+Who is most likely to... have kids in the next five years? 
+Who is most likely to... have more than 5 kids? 
+Who is most likely to... have more than two spouses in their lifetime? 
+Who is most likely to... live for a hundred years? 
+Who is most likely to... live in a big city? 
+Who is most likely to... live in a haunted house? 
+Who is most likely to... live in a jungle? 
+Who is most likely to... live in Antarctica? 
+Who is most likely to... live to a hundred years? 
+Who is most likely to... live with a native tribe? 
+Who is most likely to... watch a horror movie alone at night? 
+Who is most likely to... watch a romantic movie with a crush? 
+Who is most likely to... watch a movie twice with different girls? 
+Who is most likely to... watch a horror movie alone at night? 
+Who is most likely to... watch a romantic movie with a crush? 
+Who is most likely to... open a yoga studio? 
+Who is most likely to... open an orphanage? 
+Who is most likely to... open up a luxury restaurant? 
+Who is most likely to... open a present before the prescribed date? 
+Who is most likely to... open up their phone in an attempt to fix it? 
+Who is most likely to... open a Finsta account? 
+Who is most likely to... snatch someone’s partner? 
+Who is most likely to... hit on the bereaved at a funeral 
+Who is most likely to... never be single for more than 3 months? 
+Who is most likely to... never celebrate their birthday? 
+Who is most likely to... never fall in love? 
+Who is most likely to... giveaway “tells” in poker? 
+Who is most likely to... give up on a fitness goal? 
+Who is most likely to... give up their seat on the train for an elderly citizen? 
+Who is most likely to... forgive a cheating partner? 
+Who is most likely to... make love on a beach? 
+Who is most likely to... order a pizza within the next 24 hours? 
+Who is most likely to... order dessert before dinner? 
+Who is most likely to... help a thief escape? 
+Who is most likely to... be indecisive with simple decisions? 
+Who is most likely to... be late for an important event? 
+Who is most likely to... be a good parent? 
+Who is most likely to... be a stingy parent? 
+Who is most likely to... be a strict parent? 
+Who is most likely to... be a cool dad/mom? 
+Who is most likely to... remain asleep while the alarm is blaring? 
+Who is most likely to... remain calm during a storm? 
+Who is most likely to... remain in the bathroom for 1 hour every day? 
+Who is most likely to... do something stupid on a night out with their kids? 
+Who is most likely to... be so awkward around in-laws? 
+Who is most likely to... break their phone screen? 
+Who is most likely to... forget to pick the kids from school? 
+Who is most likely to... fall asleep when watching tv? 
+Who is most likely to... use the kids as an excuse to get out of a commitment? 
+Who is most likely to... be the loudest at a game? 
+Who is most likely to... forget the groceries? 
+Who is most likely to... buy the same gift more than once? 
+Who is most likely to... keep items/clothes they haven’t worn or used in years 
+Who is most likely to... continue using their maiden name? 
+Who is most likely to... be two hours late to their own event? 
+Who is most likely to... go to a party just for the food? 
+Who is most likely to... forget a loved one’s birthday? 
+Who is most likely to... forget an important event? 
+Who is most likely to... forget people’s names? 
+Who is most likely to... forget their spouse’s birthday? 
+Who is most likely to... forget their wallet/purse at a shop? 
+Who is most likely to... forget their wedding anniversary? 
+Who is most likely to... forget to shower? 
+Who is most likely to... indulge in late-night snacking? 
+Who is most likely to... accidentally set the house on fire? 
+Who is most likely to... be expelled from school? 
+Who is most likely to... be found in the library? 
+Who is most likely to... be overly critical? 
+Who is most likely to... be pessimistic about everything? 
+Who is most likely to... make up a false story? 
+Who is most likely to... win a fart contest? 
+Who is most likely to... make a mess when eating? 
+Who is most likely to... become a vegetarian? 
+Who is most likely to... eat without leftovers? 
+Who is most likely to... clean up everybody’s crap without asking 
+Who is most likely to... stalk a crush? 
+Who is most likely to... stalk their celebrity crush? 
+Who is most likely to... stand up to a bully? 
+Who is most likely to... receive no gifts at Christmas? 
+Who is most likely to... move back in with their parents? 
+Who is most likely to... lock their key in the car? 
+Who is most likely to... lock themselves out of the house? 
+Who is most likely to... look almost the same years from now? 
+Who is most likely to... leave and never come back? 
+Who is most likely to... leave many tabs open on their browser? 
+Who is most likely to... leave the heat on when they leave the house? 
+Who is most likely to... have the highest grades in an exam? 
+Who is most likely to... get a perfect score on the SAT? 
+Who is most likely to... take everything too literally? 
+Who is most likely to... take the longest to get ready? 
+Who is most likely to... take the longest in a store? 
+Who is most likely to... say something idiotic and embarrassing in public? 
+Who is most likely to... scare off a burglar? 
+Who is most likely to... scream at a spider? 
+Who is most likely to... scream their heads off on a roller coaster? 
+Who is most likely to... lose their temper over an insignificant issue? 
+Who is most likely to... call someone for no reason? 
+Who is most likely to... cancel on their friends? 
+Who is most likely to... wear mismatched shoes as a fashion statement? 
+Who is most likely to... wear mismatched shoes by accident? 
+Who is most likely to... take everything too literally? 
+Who is most likely to... be melodramatic? 
+Who is most likely to... stay in bed all day? 
+Who is most likely to... get caught sneaking out? 
+Who is most likely to... forget to do the dishes? 
+Who is most likely to... be grounded? 
+Who is most likely to... trip off the stairs? 
+Who is most likely to... sleep off while watching TV? 
+Who is most likely to... be absent at family functions? 
+Who is most likely to... fall asleep during prayers? 
+Who is most likely to... skip out on church? 
+Who is most likely to... leave home once they turn 18? 
+Who is most likely to... skip school? 
+Who is most likely to... feign an illness? 
+Who is most likely to... skip meals? 
+Who is most likely to... be caught telling a lie? 
+Who is most likely to... miss curfew? 
+Who is most likely to... snitch on other siblings? 
+Who is most likely to... help a friend bury a body? 
+Who is most likely to... act on a crush? 
+Who is most likely to... attend a concert or music festival? 
+Who is most likely to... backstab friends? 
+Who is most likely to... bake a cake for a school trip? 
+Who is most likely to... bark in public? 
+Who is most likely to... be a backbiter? 
+Who is most likely to... gossip? 
+Who is most likely to... be late for class? 
+Who is most likely to... be late for graduation? 
+Who is most likely to... be the first to get drunk on a night out? 
+Who is most likely to... be the life of the Party? 
+Who is most likely to... smoke a joint in a public place? 
+Who is most likely to... smoke next to a no-smoking sign? 
+Who is most likely to... smudge all their makeup before something important? 
+Who is most likely to... snitch? 
+Who is most likely to... sext in class? 
+Who is most likely to... shave their head for some reason? 
+Who is most likely to... spend all their money on something stupid? 
+Who is most likely to... spend Christmas in a bar? 
+Who is most likely to... spend the entire day playing video games? 
+Who is most likely to... spend the most money on shoes? 
+Who is most likely to... spend the most on food? 
+Who is most likely to... spend the most on makeup? 
+Who is most likely to... spend the most on shopping? 
+Who is most likely to... spend the most time on their hair? 
+Who is most likely to... spend their last penny on clothes? 
+Who is most likely to... spend too much time online? 
+Who is most likely to... betray their best friend? 
+Who is most likely to... betray their team? 
+Who is most likely to... binge-watch a movie, a night to an important exam? 
+Who is most likely to... binge-watch an entire season of a TV-show in a day? 
+Who is most likely to... catch feelings after a one night stand? 
+Who is most likely to... catfish someone on the internet? 
+Who is most likely to... be grumpy after a one night stand? 
+Who is most likely to... be heartbroken? 
+Who is most likely to... be pregnant after a one-night stand? 
+Who is most likely to... be tired of their partner after two weeks? 
+Who is most likely to... wander off on their own on a night out? 
+Who is most likely to... watch a horror movie alone at night? 
+Who is most likely to... watch a romantic movie with a crush? 
+Who is most likely to... stay at home on Friday night? 
+Who is most likely to... stay in a toxic relationship? 
+Who is most likely to... get in a fight? 
+Who is most likely to... get arrested? 
+Who is most likely to... kiss a waiter? 
+Who is most likely to... get arrested on vacation by the local police? 
+Who is most likely to... get arrested for doing a dare? 
+Who is most likely to... snore the loudest? 
+Who is most likely to... speak with their mouth full? 
+Who is most likely to... lie to get out of trouble? 
+Who is most likely to... lie to say the truth no matter what? 
+Who is most likely to... break a promise? 
+Who is most likely to... break a world record? 
+Who is most likely to... build a giant sandcastle? 
+Who is most likely to... cry during an argument? 
+Who is most likely to... cry in a public place? 
+Who is most likely to... cry over a movie? 
+Who is most likely to... cry over little things? 
+Who is most likely to... pick their nose and put it in their mouth? 
+Who is most likely to... pick their teeth in public? 
+Who is most likely to... act as a superhero in a Marvel movie? 
+Who is most likely to... act as a villain in movies? 
+Who is most likely to... win a pie-eating contest? 
+Who is most likely to... get shouted at by their parents? 
+Who is most likely to... eat a bug? 
+Who is most likely to... eat a toenail? 
+Who is most likely to... eat a whole pizza by themselves under half an hour? 
+Who is most likely to... eat cat food? 
+Who is most likely to... eat dog food? 
+Who is most likely to... eat something gross on a dare? 
+Who is most likely to... eat something off the ground? 
+Who is most likely to... eat spaghetti with syrup? 
+Who is most likely to... eat the most number of burgers within 10 minutes? 
+Who is most likely to... eat their birthday cake alone? 
+Who is most likely to... eat weird food? 
+Who is most likely to... eat when they’re bored? 
+Who is most likely to... eat without brushing their teeth? 
+Who is most likely to... eavesdrop on a conversation? 
+Who is most likely to... develop a habit of biting their fingernails? 
+Who is most likely to... develop a habit of biting their lips? 
+Who is most likely to... develop a habit of biting their pen? 
+Who is most likely to... become addicted to m&m’s? 
+Who is most likely to... abandon their room because of spiders? 
+Who is most likely to... ask for someone else’s food? 
+Who is most likely to... be a bully? 
+Who is most likely to... be a daydreamer? 
+Who is most likely to... be allergic to cats/ dogs? 
+Who is most likely to... be an Alien? 
+Who is most likely to... be embarrassed when he/ she is around his/ her crush? 
+Who is most likely to... be friendly with animals? 
+Who is most likely to... be sad over an animal’s death? 
+Who is most likely to... be the Grinch on Christmas? 
+Who is most likely to... look good in a kilt 
+Who is most likely to... be the teacher’s pet? 
+Who is most likely to... watch Baby Looney Tunes? 
+Who is most likely to... get chased by a dog? 
+Who is most likely to... get hit by a bike? 
+Who is most likely to... get hungry in the middle of the night? 
+Who is most likely to... grossly exaggerate the truth? 
+Who is most likely to... hack their ex’s social media account? 
+Who is most likely to... hate Valentine’s Day?
