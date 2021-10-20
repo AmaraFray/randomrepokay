@@ -1,2 +1,3 @@
 t/dsite = "https://instafbcaptions.com/questions-truth-dare-game/"
 t/dsite2 = "https://hobbylark.com/party-games/truth-or-dare-questions"
+wyr site = https://psycatgames.com/magazine/party-games/would-you-rather/
