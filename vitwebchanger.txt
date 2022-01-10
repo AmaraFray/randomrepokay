@@ -1145,4 +1145,3 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 	</div>
 </body>
 </html>
-
