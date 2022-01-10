@@ -209,7 +209,7 @@
             <div class="container">
                 <div class="banner row">
 			
-                    <div class="view view-home-banner view-id-home_banner view-display-id-block view-dom-id-f2d86ceef6806723acd9a3b8d82bbb82">
+                    <div class="view view-home-banner view-id-home_banner view-display-id-block view-dom-id-bf85861df2d235718a4e970901dc5df6">
         
   
   
@@ -326,7 +326,7 @@
                             <div class="news_col clearfix">
                               
                                 <h2 class="EV-title" style="color: white !important;"><span>UPCOMING EVENTS</span> <a target="_blank" href="https://vit.ac.in/all-events" class="NE-all">View All</a></h2>
-                                <div class="view view-front-page-events-block view-id-front_page_events_block view-display-id-block_4 view-dom-id-226fdf6f1d73dd564e87494dcc2d68cd">
+                                <div class="view view-front-page-events-block view-id-front_page_events_block view-display-id-block_4 view-dom-id-6e86ab1155b633fc8c8b310abe74e24c">
         
   
   
@@ -566,7 +566,7 @@
     <section class="cleafix profile-quote section brown_bac scroll_btm" >
         <div class="container">
 
-            <div class="view view-front-page-events-block view-id-front_page_events_block view-display-id-block_5 view-dom-id-90b4766d6e741174908009b993b6aebc">
+            <div class="view view-front-page-events-block view-id-front_page_events_block view-display-id-block_5 view-dom-id-f9587239fdc2e70dd3d82ecc48ff2061">
         
   
   
@@ -907,7 +907,7 @@ Partners</p>
                         			
                         <form action="/" method="post" id="webform_client_form_5773" accept-charset="UTF-8" autocomplete="off">
                             <input type="hidden" name="form_id" value="webform_client_form_5773" />
-                            <input type="hidden" name="form_build_id" value="form-vVbwlBKhJjxA_E3l1NXu7hq2BRHVQPvdmDQGG6xv-CI" />
+                            <input type="hidden" name="form_build_id" value="form-T1nePxF74ODG0Q46aYRCNlGXJ_aTLLUHH-fNrq9FQk0" />
                             	
                             <div  class="form-item webform-component webform-component-textfield webform-component--name">
   <label class="element-invisible" for="edit-submitted-name">Name <span class="form-required" title="This field is required.">*</span></label>
@@ -1120,7 +1120,7 @@ jQuery.noConflict();
 <script type="text/javascript" defer="defer" src="https://vit.ac.in/sites/all/modules/video/js/video.js?r3f9us"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"vittheme","theme_token":"VYwLeztfdxYni88Hnaqs-eJSSXLAEVG1vchRJ1odWTo","js":{"\/sites\/all\/themes\/vittheme\/js\/jquery-2.1.1.min.js":1,"\/sites\/all\/themes\/vittheme\/js\/common.js":1,"\/sites\/all\/themes\/vittheme\/js\/jquery.stuck.js":1,"\/sites\/all\/themes\/vittheme\/js\/owl.carousel.min.js":1,"\/sites\/all\/themes\/vittheme\/js\/jquery.fancybox.min.js":1,"\/sites\/all\/themes\/vittheme\/js\/scrolljs.js.js":1,"misc\/jquery.js":1,"misc\/drupal.js":1,"0":1,"sites\/all\/modules\/video\/js\/video.js":1},"css":{"sites\/all\/themes\/vittheme\/css\/bootstrap.min.css":1,"sites\/all\/themes\/vittheme\/css\/style.css":1,"sites\/all\/themes\/vittheme\/css\/theme.css":1,"sites\/all\/themes\/vittheme\/css\/combine.css":1,"sites\/all\/themes\/vittheme\/css\/responsive.css":1}},"encrypt_submissions":{"baseUrl":"https:\/\/vit.ac.in"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"vittheme","theme_token":"MdPGaFJZvWF7UaxVhBLr7Qn3IjjONzMTxk5JEMo32Qg","js":{"\/sites\/all\/themes\/vittheme\/js\/jquery-2.1.1.min.js":1,"\/sites\/all\/themes\/vittheme\/js\/common.js":1,"\/sites\/all\/themes\/vittheme\/js\/jquery.stuck.js":1,"\/sites\/all\/themes\/vittheme\/js\/owl.carousel.min.js":1,"\/sites\/all\/themes\/vittheme\/js\/jquery.fancybox.min.js":1,"\/sites\/all\/themes\/vittheme\/js\/scrolljs.js.js":1,"misc\/jquery.js":1,"misc\/drupal.js":1,"0":1,"sites\/all\/modules\/video\/js\/video.js":1},"css":{"sites\/all\/themes\/vittheme\/css\/bootstrap.min.css":1,"sites\/all\/themes\/vittheme\/css\/style.css":1,"sites\/all\/themes\/vittheme\/css\/theme.css":1,"sites\/all\/themes\/vittheme\/css\/combine.css":1,"sites\/all\/themes\/vittheme\/css\/responsive.css":1}},"encrypt_submissions":{"baseUrl":"https:\/\/vit.ac.in"}});
 //--><!]]>
 </script>
 		  <script type="text/javascript" defer="defer" src="/sites/all/themes/vittheme/js/jquery-2.1.1.min.js?r3f9us"></script>
