@@ -1,0 +1,1147 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://vit.ac.in/sites/all/themes/vittheme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" type="application/rss+xml" title="VIT RSS" href="https://vit.ac.in/rss.xml" />
+<meta name="description" content="Established in 1984, VIT is a No.1 Progressive Educational Institution &amp; Top Ranking University in India. Its a dedicated to the pursuit of excellence.." />
+<meta name="abstract" content="VIT, the top university in India was established with the aim of providing quality higher education on par with international standards. It persistently seeks and adopts innovative methods to improve the quality of higher education on a consistent basis. The campus has a cosmopolitan atmosphere with students from all corners of the globe. Experienced and learned teachers are strongly encouraged to nurture the students." />
+<meta name="keywords" content="vit, vellore institute of technology, viteee, vit university, vit vellore, top engineering colleges in india, top 10 engineering colleges in tamilnadu, best b.tech institution in india, top computer science engineering colleges in india, top ranking university in india, world ranking university in india" />
+<meta name="generator" content="Drupal" />
+<link rel="canonical" href="https://vit.ac.in/" />
+<meta property="og:site_name" content="Vellore Institute of Technology" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://vit.ac.in/" />
+<meta property="og:title" content="VIT | No.1 Private Institution for Innovation" />
+<meta property="og:description" content="Established in 1984 VIT University is a progressive educational institution that is dedicated to the pursuit of excellence." />
+<meta property="og:image" content="https://vit.ac.in/sites/all/themes/vittheme/images/og-vit-ioe-updated-opti.jpg" />
+<meta property="og:image:url" content="https://vit.ac.in/sites/all/themes/vittheme/images/og-vit-ioe-updated-opti.jpg" />
+<meta name="dcterms.title" content="VIT" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="https://vit.ac.in/" />
+<meta name="facebook-domain-verification" content="9bbekg8iy8yy964rj4euqpwennaxoc" />
+	  <title>VIT | No.1 Private Institution for Innovation</title>
+  <style type="text/css" media="screen">
+@import url("https://vit.ac.in/sites/all/themes/vittheme/css/bootstrap.min.css?r3f9us");
+@import url("https://vit.ac.in/sites/all/themes/vittheme/css/style.css?r3f9us");
+@import url("https://vit.ac.in/sites/all/themes/vittheme/css/theme.css?r3f9us");
+@import url("https://vit.ac.in/sites/all/themes/vittheme/css/combine.css?r3f9us");
+@import url("https://vit.ac.in/sites/all/themes/vittheme/css/responsive.css?r3f9us");
+</style>
+<meta name="author" content="VIT University">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+<meta name="copyright" content="https://vit.ac.in/"/>
+<meta name="geo.region" content="IN-TN" />
+<meta name="geo.placename" content="Vellore" />
+<meta name="geo.position" content="12.968843;79.15591" />
+<meta name="ICBM" content="12.968843, 79.15591" />
+ 
+</head>
+<body class="html front not-logged-in no-sidebars page-node i18n-en" >
+	<div id="fontSize">
+		  <div id="skip-link">
+			<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+		  </div>
+		  		  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-89338386-1"></script>
+
+<script type="text/javascript" src="https://web-in21.mxradon.com/t/Tracker.js"></script>
+<script type="text/javascript">
+      pidTracker('57449');
+</script>
+
+
+<script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-89338386-1');
+
+    var $ = jQuery;
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 400) {
+            $('.page-container').addClass("sticky_menu");
+        } else {
+            $('.page-container').removeClass("sticky_menu");
+        }
+    });
+    $(window).load(function () {
+        $("#stick").sticky({topSpacing: 0});
+    });
+    function myFunction() {
+        if (window.pageYOffset > sticky) {
+            header.classList.add("sticky");
+        } else {
+            header.classList.remove("sticky");
+        }
+    }
+    $(window).load(function () {
+        if (document.getElementById("suc_message")) {
+            console.log('message not empty');
+            $('html, body').animate({
+                scrollTop: $("#tp_scr4").offset().top
+            }, 2000);
+        } else {
+
+        }
+    })
+
+    jQuery(document).ready(function (e) {
+        $("#edit-submitted-mobile-number").keypress(function (evt) {
+            // Check if the value of the input is valid
+            var charCode = (evt.which) ? evt.which : event.keyCode;
+            if ((charCode < 48 || charCode > 57 || charCode == '32'))
+                return false;
+            return true;
+        });
+    });
+</script>
+
+<!--<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" style="margin-top: 15px;" role="document" align="center">
+        <div class="modal-content" style="max-width: 450px;">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal"><i class="fa fa-times-circle-o" aria-hidden="true"></i></button>
+                <a href="https://viteee.vit.ac.in/?utm_source=VIT&utm_campaign=viteee2020" target="_blank">
+                    <img src="sites/all/themes/vittheme/images/viteee-2020.jpg" class="img-responsive" style="width: 100%;" />
+                </a>
+            </div>
+            <div class="modal-footer">
+                <a href="https://viteee.vit.ac.in/?utm_source=VIT&utm_campaign=viteee2020" target="_blank" class="btn btn-primary" style="padding: 10px;">Apply now</a>
+            </div>
+        </div>
+    </div>
+</div>-->
+
+<div class="page-container">
+
+    <section class="manu_bar" id="stick">
+        <div class="menu_pos">
+            <div class="container">
+                <!-- Temp bar on top -->
+                <div class="row" style="background-color: #1979a9; color: white; padding: 0px; margin-bottom: -1px;">
+				 
+				
+
+                    <div class="col-lg-8">
+                        <div style="padding: 12px; margin-top: -1px;">
+                   <p style="color: #faeb00; text-align: right; font-weight: bold; font-size: 16px; padding: 5px; letter-spacing: 1px;">
+                                <a href ="https://viteee.vit.ac.in/" target = "_blank">
+                                    <span style="color:#faeb00;"><marquee> VITEEE-2022 Application Launched </span></a> <img src="https://vit.ac.in/images/New_icons_18.gif"> </marquee></p>
+                                    <!--<span style="padding: 5px 13px; letter-spacing: 2px; border-radius: 50px; color: #fff; border: 1px solid #FFA500; background-color: #FF8C00; font-size: 14px;"> Click here</a> 	
+
+<a href="https://www.youtube.com/watch?v=JzDMjJIqM_s" target="_blank">
+ <span style="padding: 5px 13px; letter-spacing: 2px; border-radius: 50px; color: #fff; border: 1px solid #FFA500; background-color: #FF8C00; font-size: 14px;"> Video</a>
+ 
+									</span> </a>						 
+                                
+                          
+                               
+                            </p>-->
+                        </div>
+                    </div>
+					<div class="col-lg-4">
+					</div>
+					 
+                  <!--  <div class="col-lg-2 text-center">
+                        <a href="https://vit.ac.in/applications-open-2021-22" class="btn">
+                            <img src="https://vit.ac.in/sites/all/themes/vittheme/images/applicaions-open-2021.gif" loading="lazy" style="margin-top: 10px;" />
+                            <br /><span style="font-size: 12px; color: white; position: absolute; text-align: right; margin-top: -10px; margin-left: 30px; letter-spacing: 2px;">Click here</span>
+                        </a>
+                    </div> -->
+                    <div class="col-lg-4" style="background-color: #1979a9; text-align: center; padding: 20px; font-weight: 600; letter-spacing: 1px;">
+                        <a href="http://chennai.vit.ac.in/" target="_blank" style="color: white; padding: 5px;">
+                            <i class="fa fa-university" aria-hidden="true"></i> VIT - CHENNAI
+                        </a> 
+                        <a href="https://vitap.ac.in/" target="_blank" style="color: white; padding: 5px;">
+                            <i class="fa fa-university" aria-hidden="true"></i> VIT - AP
+                        </a> 
+                        <a href="https://vitbhopal.ac.in/" target="_blank" style="color: white; padding: 5px;">
+                            <i class="fa fa-university" aria-hidden="true"></i> VIT - BHOPAL
+                        </a>
+                    </div>
+                </div>
+			
+				 
+                <!-- End of bar on top -->
+
+                <div class="row">
+                    <div class="bck_menu">
+                        <div class="col-md-2 col-sm-2 col-xs-12">
+                            <div class="logo_top">
+                                <a href="/"><img src="/sites/all/themes/vittheme/images/vitlogo.png" title ="Vellore Institute of Technology" alt="Vellore Institute of Technology" loading="lazy" ></a>
+                            </div>
+                        </div>
+                        <div class="col-md-10 col-sm-10 col-xs-12 menu_mobile">
+                            <div class="vc-mm-menu-h  vc-mm-h-layout-2 vc-mm-container" id="fontSize">
+                                <ul class="vc-nav-on-mobile vc-mm-menu">
+                                    <li class="vc-menu-item vc-mm-mobile-toggle">
+                                        <a href="#" class="nav-link vc-mm-mobile-toggle-btn"> Menu<i class="fa fa-bars"></i> </a>
+                                    </li>
+                                </ul>
+                                <ul class="vc-nav-on-desktop vc-mm-menu">
+	<li class="vc-menu-item vc-mm-mobile-toggle">
+												<a href="#" class="nav-link vc-mm-mobile-toggle-btn"><i class="fa fa-bars"></i></a>
+												<h3 class="vc-mm-child-title lv-0">VIT<a class="vc-close" href="#"></a></h3>
+											</li>
+											<li class="menu-item  current-menu-parent vc-menu-item vc-d-0 ">
+												<a href="https://vit.ac.in" class="nav-link">Home</a>							
+											</li>	
+											<li class="menu-item  current-menu-ancestor menu-item-has-children vc-menu-item vc-d-0"><a title="About VIT" class="nav-link" href="https://vit.ac.in/about-vit">About Us</a><div class="sub-menu"><ul id="ul1" class="sub-menu-inner"><li class="vc-menu-item"><a title="Overview" class="nav-link" href="https://vit.ac.in/about-vit">Overview</a></li><li class="vc-menu-item"><a title="Vision & Mission" class="nav-link" href="https://vit.ac.in/about/vision-mission">Vision & Mission</a></li><li class="vc-menu-item"><a title="VIT Milestones" class="nav-link" href="https://vit.ac.in/vit-milestones">VIT Milestones</a></li><li class="vc-menu-item"><a title="Leadership" class="nav-link" href="https://vit.ac.in/about/leadership">Leadership</a></li><li class="vc-menu-item"><a title="Governance" class="nav-link" href="https://vit.ac.in/governance">Governance</a></li><li class="vc-menu-item"><a title="Administrative Offices" class="nav-link" href="https://vit.ac.in/about/administrative-offices">Administrative Offices</a></li><li class="vc-menu-item"><a title="Infrastructure" class="nav-link" href="https://vit.ac.in/about/infrastructure">Infrastructure</a></li><li class="vc-menu-item"><a title="Ranking & Accreditation" class="nav-link" href="https://vit.ac.in/about/ranking-and-accreditation">Ranking & Accreditation</a></li><li class="vc-menu-item"><a title="Sustainability" class="nav-link" href="https://vit.ac.in/about/sustainability">Sustainability</a></li><li class="vc-menu-item"><a title="True Green project " class="nav-link" href="https://vit.ac.in/true-green">True Green project </a></li><li class="vc-menu-item"><a title="Community Outreach" class="nav-link" href="https://vit.ac.in/about/community-outreach">Community Outreach</a></li><li class="vc-menu-item"><a title="Community Radio" class="nav-link" href="https://vit.ac.in/about/communityradio">Community Radio</a></li><li class="vc-menu-item"><a title="Archieved News" class="nav-link" href="https://vit.ac.in/all-news-archieved">Archieved News</a></li><li class="vc-menu-item"><a title="Events" class="nav-link" href="https://vit.ac.in/all-events">Events</a></li><li class="vc-menu-item"><a title="NIRF" class="nav-link" href="https://vit.ac.in/national-institutional-ranking-framework-nirf">NIRF</a></li><li class="vc-menu-item"><a title="MHRD/UGC" class="nav-link" href="https://vit.ac.in/mhrdugc">MHRD/UGC</a></li><li class="vc-menu-item"><a title="Careers@VIT" class="nav-link" href="http://careers.vit.ac.in/">Careers@VIT</a></li><li class="vc-menu-item"><a title="Newsletter" class="nav-link" href="https://vit.ac.in/about/news-letter">Newsletter</a></li></ul></div></li><li class="menu-item  current-menu-ancestor menu-item-has-children vc-menu-item vc-d-0"><a title="Academics" class="nav-link" href="https://vit.ac.in/academics/home">Academics</a><div class="sub-menu"><ul id="ul2" class="sub-menu-inner"><li class="vc-menu-item"><a title="Overview" class="nav-link" href="https://vit.ac.in/academics/home">Overview</a></li><li class="vc-menu-item"><a title="Academic Regulations" class="nav-link" href="https://vit.ac.in/sites/default/files/academic/Academic-Regulations.pdf">Academic Regulations</a></li><li class="vc-menu-item"><a title="Programmes Offered" class="nav-link" href="https://vit.ac.in/programmes-offered-1">Programmes Offered</a><div class="sub-menu" id="subsub_menu"><ul id="ul" class="sub-menu-inner subsub-menu-inner" ><li class="vc-menu-item"><a title="AY 2021-22" class="nav-link" href="https://vit.ac.in/programmes-offered-2021-22">AY 2021-22</a></li><li class="vc-menu-item"><a title="AY 2020-21" class="nav-link" href="https://vit.ac.in/programmes-offered-2020-21">AY 2020-21</a></li></ul></div></li><li class="vc-menu-item"><a title="Curriculum" class="nav-link" href="https://vit.ac.in/schools">Curriculum</a></li><li class="vc-menu-item"><a title="FFCS" class="nav-link" href="https://vit.ac.in/academics/ffcs">FFCS</a></li><li class="vc-menu-item"><a title="Library" class="nav-link" href="https://vit.ac.in/academics/library">Library</a></li><li class="vc-menu-item"><a title="Schools" class="nav-link" href="https://vit.ac.in/schools">Schools</a></li><li class="vc-menu-item"><a title="Feedback" class="nav-link" href="https://vit.ac.in/academics-feedback">Feedback</a></li></ul></div></li><li class="menu-item  current-menu-ancestor menu-item-has-children vc-menu-item vc-d-0"><a title="Admissions" class="nav-link" href="https://vit.ac.in/admissions/overview">Admissions</a><div class="sub-menu"><ul id="ul3" class="sub-menu-inner"><li class="vc-menu-item"><a title="Overview" class="nav-link" href="https://vit.ac.in/admissions/overview">Overview</a></li><li class="vc-menu-item"><a title="Programmes Offered" class="nav-link" href="https://vit.ac.in/admissions/programmes-offered">Programmes Offered</a></li><li class="vc-menu-item"><a title="Undergraduate" class="nav-link" href="https://vit.ac.in/all-courses/ug">Undergraduate</a></li><li class="vc-menu-item"><a title="Postgraduate" class="nav-link" href="https://vit.ac.in/all-courses/pg">Postgraduate</a></li><li class="vc-menu-item"><a title="Research" class="nav-link" href="https://vit.ac.in/admissions/research">Research</a><div class="sub-menu" id="subsub_menu"><ul id="ul" class="sub-menu-inner subsub-menu-inner" ><li class="vc-menu-item"><a title="Integrated Ph.D" class="nav-link" href="https://vit.ac.in/admissions/research/Integrated_Ph.D">Integrated Ph.D</a></li><li class="vc-menu-item"><a title="PHD" class="nav-link" href="https://vit.ac.in/admissions/research/phd">PHD</a></li></ul></div></li><li class="vc-menu-item"><a title="International" class="nav-link" href="https://vit.ac.in/admissions/international">International</a></li><li class="vc-menu-item"><a title="STARS" class="nav-link" href="https://vit.ac.in/stars-support-advancement-rural-students-0">STARS</a></li></ul></div></li><li class="menu-item  current-menu-ancestor menu-item-has-children vc-menu-item vc-d-0"><a title="Career Development Centre" class="nav-link" href="https://vit.ac.in/placements/overview">Career Development Centre</a><div class="sub-menu"><ul id="ul4" class="sub-menu-inner"><li class="vc-menu-item"><a title="Overview" class="nav-link" href="https://vit.ac.in/career-development-centre">Overview</a></li><li class="vc-menu-item"><a title="Super Dream offer" class="nav-link" href="https://vit.ac.in/placements/superdreamoffers">Super Dream offer</a></li><li class="vc-menu-item"><a title="Dream Offer" class="nav-link" href="https://vit.ac.in/placements/dreamoffers">Dream Offer</a></li><li class="vc-menu-item"><a title="Internships" class="nav-link" href="https://vit.ac.in/placements/internship">Internships</a></li><li class="vc-menu-item"><a title="Statistics" class="nav-link" href="https://vit.ac.in/placements/statistics">Statistics</a></li><li class="vc-menu-item"><a title="CDC Office" class="nav-link" href="https://vit.ac.in/placements/pat-Office">CDC Office</a></li><li class="vc-menu-item"><a title="Contact Us" class="nav-link" href="https://vit.ac.in/placements/contact-us">Contact Us</a></li></ul></div></li><li class="menu-item  current-menu-ancestor menu-item-has-children vc-menu-item vc-d-0"><a title="International Relations" class="nav-link" href="https://vit.ac.in/InternationalRelations">International Relations</a><div class="sub-menu"><ul id="ul5" class="sub-menu-inner"><li class="vc-menu-item"><a title="Overview" class="nav-link" href="https://vit.ac.in/InternationalRelations">Overview</a></li><li class="vc-menu-item"><a title="International Transfer Programs (ITP)" class="nav-link" href="https://vit.ac.in/internationalrelations/itp">International Transfer Programs (ITP)</a></li><li class="vc-menu-item"><a title="Partner Universities" class="nav-link" href="https://vit.ac.in/internationalrelations/partneruniversities">Partner Universities</a></li><li class="vc-menu-item"><a title="SAP" class="nav-link" href="https://vit.ac.in/internationalrelations/sap">SAP</a></li><li class="vc-menu-item"><a title="International Admissions" class="nav-link" href="https://vit.ac.in/admissions/international/overview">International Admissions</a></li><li class="vc-menu-item"><a title="Contact us" class="nav-link" href="https://vit.ac.in/academics-more/Contact us">Contact us</a></li></ul></div></li><li class="menu-item  current-menu-ancestor menu-item-has-children vc-menu-item vc-d-0"><a title="Research" class="nav-link" href="https://vit.ac.in/research">Research</a><div class="sub-menu"><ul id="ul6" class="sub-menu-inner"><li class="vc-menu-item"><a title="Overview" class="nav-link" href="https://vit.ac.in/research">Overview</a></li><li class="vc-menu-item"><a title="Academic Research" class="nav-link" href="https://vit.ac.in/research/academic">Academic Research</a></li><li class="vc-menu-item"><a title="Sponsored Research" class="nav-link" href="https://vit.ac.in/research/sponsored-research">Sponsored Research</a></li><li class="vc-menu-item"><a title="IPR Cell" class="nav-link" href="https://vit.ac.in/iprcell">IPR Cell</a></li><li class="vc-menu-item"><a title="Research Centers" class="nav-link" href="https://vit.ac.in/research/centers-list">Research Centers</a></li></ul></div></li><li class="menu-item  current-menu-ancestor menu-item-has-children vc-menu-item vc-d-0"><a title="Campus Life" class="nav-link" href="https://vit.ac.in/campuslife/overview">Campus Life</a><div class="sub-menu"><ul id="ul7" class="sub-menu-inner"><li class="vc-menu-item"><a title="Overview" class="nav-link" href="https://vit.ac.in/campuslife/overview">Overview</a></li><li class="vc-menu-item"><a title="Fests" class="nav-link" href="https://vit.ac.in/campuslife/fests">Fests</a></li><li class="vc-menu-item"><a title="Students' Welfare" class="nav-link" href="https://vit.ac.in/campuslife/studentswelfare">Students' Welfare</a><div class="sub-menu" id="subsub_menu"><ul id="ul" class="sub-menu-inner subsub-menu-inner" ><li class="vc-menu-item"><a title="Student Clubs" class="nav-link" href="https://vit.ac.in/campus-category/Clubs">Student Clubs</a></li><li class="vc-menu-item"><a title="Student Chapters" class="nav-link" href="https://vit.ac.in/campus-category/Chapters">Student Chapters</a></li><li class="vc-menu-item"><a title="Campus Events" class="nav-link" href="https://vit.ac.in/campus-category/Campus-Events">Campus Events</a></li><li class="vc-menu-item"><a title="Counselling Division" class="nav-link" href="https://vit.ac.in/campus-category/Counselling-Division">Counselling Division</a></li><li class="vc-menu-item"><a title="General Grievance Redressal Committee" class="nav-link" href="https://vit.ac.in/campus-category/grievancecell">General Grievance Redressal Committee</a></li><li class="vc-menu-item"><a title="Student Council" class="nav-link" href="https://vit.ac.in/campus-category/Student-Council">Student Council</a></li></ul></div></li><li class="vc-menu-item"><a title="Library" class="nav-link" href="https://vit.ac.in/academics/library">Library</a></li><li class="vc-menu-item"><a title="Sports" class="nav-link" href="https://vit.ac.in/campuslife/sports">Sports</a></li><li class="vc-menu-item"><a title="Hostels" class="nav-link" href="https://vit.ac.in/campuslife/hostels">Hostels</a></li><li class="vc-menu-item"><a title="Health Services" class="nav-link" href="https://vit.ac.in/campuslife/healthservices">Health Services</a></li><li class="vc-menu-item"><a title="Other Amenities" class="nav-link" href="https://vit.ac.in/campuslife/otheramenities">Other Amenities</a></li><li class="vc-menu-item"><a title="Green Campus" class="nav-link" href="https://vit.ac.in/detailview/green-vit">Green Campus</a></li></ul></div></li><li class="menu-item  current-menu-ancestor menu-item-has-children vc-menu-item vc-d-0"></li></ul>                            </div>
+                            <div class="menu_sec"><div id="cssmenu"><ul><li class="active has-sub"><a target = _blank class="nav-link" href="https://vit.ac.in/vitol/">Online Institute (VITOL)</a></li><li class="active has-sub"><a  class="nav-link" href="javascript:void(0)">Examinations</a><ul><li><a class="nav-link" href="https://vit.ac.in/academics/coe">Controller of Examinations</a></li><li><a class="nav-link" href="https://vit.ac.in/transcripts-alumni">Transcripts for Alumni</a></li><li><a class="nav-link" target = _blank href="https://vit.applydirect.org/student">WES attestation</a></li><li><a class="nav-link" target = _blank href="https://applications.wes.org/required-documents/Search/Result?cId=2&eId=38&iNm=Vellore%20Institute%20of%20Technology%20%28VIT%29&cNm=Bachelor%20of%20Applied%20Arts&iSec=University%20Education&iSub=Bachelor%27s%20Degree%20Programs&comp=1&isEca=False">WES Application Process</a></li><li><a class="nav-link" target = _blank href="https://www.wes.org/advisor-blog/send-electronic-academic-records/">WES Advisory Blog</a></li><li><a class="nav-link" target = _blank href="https://vit.ac.in/files/e-SANAD-Notification.pdf">e-Sanad</a></li><li><a class="nav-link" target = _blank href="https://web.vit.ac.in/CertificateVerification/login">Certificate Verification for Registered Agencies</a></li><li><a class="nav-link" href="https://vit.ac.in/coe-email-contacts">Email Contacts</a></li></ul></li><li class="active has-sub"><a target = _blank class="nav-link" href="https://vit.ac.in/centers/asc">Academic Staff College</a></li><li class="active has-sub"><a target = _blank class="nav-link" href="http://www.vittbi.com/#/">VIT TBI</a></li><li class="active has-sub"><a  class="nav-link" href="javascript:void(0)">Parents</a><ul><li><a class="nav-link" target = _blank href="https://vtop.vit.ac.in/">Parent Login</a></li><li><a class="nav-link" href="https://vit.ac.in/campus-category/Counselling-Division">Counselling Division </a></li><li><a class="nav-link" target = _blank href="https://vit.ac.in/guest-house">Guest House</a></li><li><a class="nav-link" href="https://vit.ac.in/redressal">Grievance Redressal</a></li><li><a class="nav-link" target = _blank href="https://vit.ac.in/hotels-in-vellore">Hotels in Vellore</a></li></ul></li><li class="active has-sub"><a  class="nav-link" href="javascript:void(0)">Students</a><ul><li><a class="nav-link" target = _blank href="https://mail.google.com/">VIT Gmail</a></li><li><a class="nav-link" target = _blank href="https://vtop.vit.ac.in/">Student Login</a></li><li><a class="nav-link" target = _blank href="http://intranet.vit.ac.in">VIT Intranet</a></li><li><a class="nav-link" target = _blank href="https://vit.ac.in/sites/default/files/SBST_Freshers_App.rar">SBST  Freshers App</a></li><li><a class="nav-link" target = _blank href="https://vit.ac.in/anti-ragging-committee">Anti Ragging Committee</a></li><li><a class="nav-link" target = _blank href="https://vit.ac.in/capability-enhancement-scheme">Capability Enhancement Schemes</a></li><li><a class="nav-link" target = _blank href="https://vit.ac.in/sites/default/files/FormatGuidelines.doc">Industrial Visit</a></li><li><a class="nav-link" href="https://vit.ac.in/internal-complaints-committee">ICC</a></li></ul></li><li class="active has-sub"><a  class="nav-link" href="javascript:void(0)">Alumni</a><ul><li><a class="nav-link" target = _blank href="https://vit.ac.in/alumni_progression">Alumni Progression</a></li><li><a class="nav-link" href="https://vit.ac.in/academics/transcripts">Transcripts</a></li><li><a class="nav-link" href="https://vit.ac.in/instruction">Medium of Instruction / Migration Certificate</a></li><li><a class="nav-link" target = _blank href="https://www.campusinteraction.com/">Lateral Hiring</a></li><li><a class="nav-link" target = _blank href="https://vtop.vit.ac.in/vtop/initialProcess">Other services to Alumni</a></li><li><a class="nav-link" target = _blank href="https://vit.ac.in/alumni-events">Alumni - Events</a></li><li><a class="nav-link" target = _blank href="https://www.vitaa.org/page/Distinguished-Alumni-Award-Winners.dz">Distinguished Alumni Awards</a></li><li><a class="nav-link" target = _blank href="https://vit.ac.in/sites/default/files/vitaa/e-Tracks-2020/index.html">e-Tracks</a></li><li><a class="nav-link" target = _blank href="https://vit.ac.in/detailview/alumni-photo-gallery">Alumni - Photo Gallery</a></li><li><a class="nav-link" target = _blank href="http://www.vitaa.org/">VITAA Website</a></li><li><a class="nav-link" target = _blank href="https://vit.ac.in/alumni-office-contact">Alumni contact</a></li><li><a class="nav-link" href="https://vit.ac.in/coe-email-contacts">Email Contacts</a></li></ul></li><li class="active has-sub"><a target = _blank class="nav-link" href="https://campustour.vit.ac.in/">Campus Tour</a></li></ul></div></div>                        </div>
+                    </div>
+                </div>
+            </div>	
+        </div>		
+    </section>
+
+
+  
+    <header class="clearfix section hm_logo">
+        <div class="banner_block " id="banner_block_new">
+            <div class="container">
+                <div class="banner row">
+			
+                    <div class="view view-home-banner view-id-home_banner view-display-id-block view-dom-id-f2d86ceef6806723acd9a3b8d82bbb82">
+        
+  
+  
+      <div class="view-content">
+      
+					
+					</video>
+					</div>
+
+					
+
+<div class="owl-carousel banner_carosel" id="banner_carosel">
+	
+<div class="item" style="height:530px;">
+<a href="https://viteee.vit.ac.in/"><img src="https://vit.ac.in/system/files/VITEEE-2022-1BA.jpg" alt="https://viteee.vit.ac.in/" title='https://viteee.vit.ac.in/'></a>
+<div class="banner_cnt row_section">
+	<div class="container">
+		<div class="ban_cnt">
+						
+		</div>
+	</div>
+</div>
+</div>
+	
+<div class="item" style="height:530px;">
+<a href=" "><img src=" https://vit.ac.in/system/files/naac_final_0.jpg" alt=" " title=' '></a>
+<div class="banner_cnt row_section">
+	<div class="container">
+		<div class="ban_cnt">
+						
+		</div>
+	</div>
+</div>
+</div>
+	
+<div class="item" style="height:530px;">
+<a href=" https://vit.ac.in/vit-rank/"><img src=" https://vit.ac.in/system/files/NIRF-Header-21.jpg" alt=" NIRF-RANKING" title=' NIRF-RANKING'></a>
+<div class="banner_cnt row_section">
+	<div class="container">
+		<div class="ban_cnt">
+						
+		</div>
+	</div>
+</div>
+</div>
+	
+<div class="item" style="height:530px;">
+<a href=" VIT - the only Private Institution of India in Shanghai Ranking 2021"><img src=" https://vit.ac.in/system/files/shangai-RANK-21.jpg" alt=" VIT - the only Private Institution of India in Shanghai Ranking 2021" title=' VIT - the only Private Institution of India in Shanghai Ranking 2021'></a>
+<div class="banner_cnt row_section">
+	<div class="container">
+		<div class="ban_cnt">
+						
+		</div>
+	</div>
+</div>
+</div>
+	
+<div class="item" style="height:530px;">
+<a href=" QS-Rank 2021"><img src=" https://vit.ac.in/system/files/QS-Rank-2021-HEADER.jpg" alt=" QS-Rank 2021" title=' QS-Rank 2021'></a>
+<div class="banner_cnt row_section">
+	<div class="container">
+		<div class="ban_cnt">
+						
+		</div>
+	</div>
+</div>
+</div>
+</div>
+
+
+	
+	
+	    </div>
+  
+  
+  
+  
+  
+  
+</div>
+
+                </div>	
+            </div>
+        </div>
+    </header>
+    <div class="page_top_fix">
+        <div class="flash_info">
+<a  href="https://viteee.vit.ac.in/"   target ="_blank"  class="bulletin_boaer page_top_click" id="vit_nri"> VITEEE-2022</a> 
+<a  href="https://vit.ac.in/all-courses/pg"   target ="_blank"  class="bulletin_boaer page_top_click" id="vit_nrifri"> MBA Admissions 2022</a> 
+<a  href="https://vit.ac.in/about/ranking-and-accreditation"   target ="_blank"  class="bulletin_boaer page_top_click" id="vit_hostels">Ranking & Accreditation</a>  
+
+</div>
+
+
+ 	
+
+        <a href="https://campustour.vit.ac.in/" target = "_blank" class="search_click page_top_click">&nbsp;&nbsp;Campus Tour </a>	
+
+        <div class="page_share_icons page_top_click">
+            <span class="pg_sh_icon"></span>
+            <a href="https://www.facebook.com/VITuniversity/" class="face_book_icon f_icon_be" title="facebook" target="_blank"></a>
+<a href="https://twitter.com/vit_univ" class="twitter_icon f_icon_be" title="twitter" target="_blank"></a>
+<a href="https://www.linkedin.com/school/vellore-institute-of-technology/" class="linkedin_icon f_icon_be" title="LinkedIn" target="_blank"></a>
+<a href="https://www.instagram.com/vellore_vit/" class="insta_icon f_icon_be" title="instagram" target="_blank"></a>
+<a href="https://www.youtube.com/c/VITUniversityVellore" class="youbtube_icon f_icon_be" title="youtube"></a>        </div>
+    </div>
+
+    <section class="section clearfix news_events">
+        <div class="section sticky_bl" style="padding-top: 0px;padding-bottom: 0px;">
+            <div class="container">
+                <div class="row_mar_minus clearfix">
+                    <div class="col-md-6 col-sm-6 col-xs-12 col_dp">
+                        <div class="section row">
+                            <div class="news_col clearfix">
+                              
+                                <h2 class="EV-title" style="color: white !important;"><span>UPCOMING EVENTS</span> <a target="_blank" href="https://vit.ac.in/all-events" class="NE-all">View All</a></h2>
+                                <div class="view view-front-page-events-block view-id-front_page_events_block view-display-id-block_4 view-dom-id-226fdf6f1d73dd564e87494dcc2d68cd">
+        
+  
+  
+      <div class="view-content">
+      
+		<div class="section row" id="evnet_new">
+							<div class="event_slider_new owl-carousel owl-theme slde_nav_top_rg infocus_slide_visb">
+												
+										
+								<div class="item image_des2">
+									<div class="inf_sl_deta">
+										<div class="inf_sl_img hover_circle bord_li">
+												<a href="https://vit.ac.in/vit-school-agricultural-innovations-and-advanced-learning-vaial/national-farmers-day-2021"><img alt="National Farmers Day 2021" title="National Farmers Day 2021"  src="https://vit.ac.in/system/files/national-farmer-day.jpg"></a>
+										</div>
+										<div class="inf_sl_cnt even_ti">
+											<h3 class="evn_title"> 
+											National Farmers Day 2021											 </h3>
+											<div class="red_mor">
+												<a href="https://vit.ac.in/vit-school-agricultural-innovations-and-advanced-learning-vaial/national-farmers-day-2021"><button type="button" class="btn btn-default">Read More</button></a>
+											</div>
+									</div>
+								</div>
+								</div>
+							
+										
+								<div class="item image_des2">
+									<div class="inf_sl_deta">
+										<div class="inf_sl_img hover_circle bord_li">
+												<a href="https://vit.ac.in/vit-business-school-vit-bs/vit-business-school-management-fest-2022"><img alt="VIT BUSINESS SCHOOL MANAGEMENT..." title="VIT BUSINESS SCHOOL MANAGEMENT..."  src="https://vit.ac.in/system/files/invictus-poster.jpg"></a>
+										</div>
+										<div class="inf_sl_cnt even_ti">
+											<h3 class="evn_title"> 
+											VIT BUSINESS SCHOOL MANAGEMENT...											 </h3>
+											<div class="red_mor">
+												<a href="https://vit.ac.in/vit-business-school-vit-bs/vit-business-school-management-fest-2022"><button type="button" class="btn btn-default">Read More</button></a>
+											</div>
+									</div>
+								</div>
+								</div>
+							
+										
+								<div class="item image_des2">
+									<div class="inf_sl_deta">
+										<div class="inf_sl_img hover_circle bord_li">
+												<a href="https://vit.ac.in/school-electronics-engineering-sense/second-international-conference-artificial-intelligence"><img alt="Second International Conference on ARTIFICIAL INTELLIGENCE FOR INTERNET OF THINGS" title="Second International Conference on ARTIFICIAL INTELLIGENCE FOR INTERNET OF THINGS"  src="https://vit.ac.in/system/files/AIIoT-2022A.jpg"></a>
+										</div>
+										<div class="inf_sl_cnt even_ti">
+											<h3 class="evn_title"> 
+											Second International Conference on...											 </h3>
+											<div class="red_mor">
+												<a href="https://vit.ac.in/school-electronics-engineering-sense/second-international-conference-artificial-intelligence"><button type="button" class="btn btn-default">Read More</button></a>
+											</div>
+									</div>
+								</div>
+								</div>
+							
+										
+								<div class="item image_des2">
+									<div class="inf_sl_deta">
+										<div class="inf_sl_img hover_circle bord_li">
+												<a href="https://vit.ac.in/school-mechanical-engineeringsmec/27th-national-conference-internal-combustion-engines-and"><img alt="27th National Conference on Internal Combustion Engines and Combustion" title="27th National Conference on Internal Combustion Engines and Combustion"  src="https://vit.ac.in/system/files/NCICEC-2022.jpg"></a>
+										</div>
+										<div class="inf_sl_cnt even_ti">
+											<h3 class="evn_title"> 
+											27th National Conference on...											 </h3>
+											<div class="red_mor">
+												<a href="https://vit.ac.in/school-mechanical-engineeringsmec/27th-national-conference-internal-combustion-engines-and"><button type="button" class="btn btn-default">Read More</button></a>
+											</div>
+									</div>
+								</div>
+								</div>
+							
+				
+							
+						</div>
+					</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-sm-6 col-xs-12 event_cols">
+                        <h3 style="font-family: 'Roboto Slab'; font-weight: bold; font-size: 25px; margin-bottom: 0; color: #ffffff !important; margin-left: 17px;"> BULLETIN BOARD</h3>
+                        <div class="section row">
+                            <div class="news_col clearfix">
+                                <div class="news_blocki clearfix">
+                                    <div class="content mCustomScrollbar">
+                                        <div class="news_blocki clearfix">
+                                            <div class="admi">
+<ul>
+<li>
+<i class="fa fa-angle-right" aria-hidden="true"></i><a href="https://photos.app.goo.gl/1AHjtNup4SeJknyx8" target="_blank">Faculty Research award 2019 - 2020</a> <img src="https://vit.ac.in/images/New_icons_18.gif">
+</li><hr>
+<li>
+<i class="fa fa-angle-right" aria-hidden="true"></i>
+<a href="https://web.vit.ac.in/phd" style="color: yellow;" target="_blank">Research Admission Dec.2021- Guide selection Portal</a> <img src="https://vit.ac.in/images/New_icons_18.gif">
+<br />
+<a href="https://admissions.vit.ac.in/payment/freshers" style="margin-left: 14px; color: yellow;" target="_blank">Tuition Fee Payment (Due date extended till 21 Jan 2022) </a> <img src="https://vit.ac.in/images/New_icons_18.gif">
+</li><hr>
+
+<li>
+<i class="fa fa-angle-right" aria-hidden="true"></i>MBA Admission - 2022 : <a href="https://admissions.vit.ac.in/pgapplication/" target="_blank" style="color: yellow; text-decoration: none;">Apply Now</a> | <a href="https://vit.ac.in/all-courses/pg/master-of-business-administration" style="color: yellow; text-decoration: none;" target="_blank">View More</a> <img src="https://vit.ac.in/images/New_icons_18.gif">
+</li><hr>
+
+<li>
+<i class="fa fa-angle-right" aria-hidden="true"></i> Research Admissions Results Dec 2021 - 
+<a href="http://info.vit.ac.in/phd-vlr-dec-2021/index.asp" style="color: yellow;" target="_blank">Vellore</a> | <a href="http://info.vit.ac.in/phd-che-dec-2021/index.asp" style="color: yellow;" target="_blank">Chennai</a> | <a href="http://info.vit.ac.in/phd-ap-dec-2021/index.asp" style="color: yellow;" target="_blank">AP</a> <img src="https://vit.ac.in/images/New_icons_18.gif"><br />
+<font size="2" style="margin-left: 12px;">(Research admissions online interview dates Bhopal Campus - Dec 6 - 10, 2021)</font>
+</li><hr>
+
+<li>
+<i class="fa fa-angle-right" aria-hidden="true"></i><a href="https://photos.app.goo.gl/2m9LiPAnrJyP2HuV7" target="_blank"> Hon’ble Chancellor’s Birthday Celebration - Photos</a> <img src="https://vit.ac.in/images/New_icons_18.gif">
+</li><hr>
+
+<li>
+<i class="fa fa-angle-right" aria-hidden="true"></i><a href="https://smel-nabl.vit.ac.in/" target="_blank">NABL accredited laboratory facility in School of Mechanical Engineering</a> <img src="https://vit.ac.in/images/New_icons_18.gif">
+</li><hr>
+
+<li>
+<i class="fa fa-angle-right" aria-hidden="true"></i><a href="https://vit.ac.in/phd-vacancy-positions-list" target="_blank"> Schools / Centre's - List of Research Guides </a> <img src="https://vit.ac.in/images/New_icons_18.gif">
+</li><hr>
+
+
+<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="https://vit.ac.in/Ariia-2021/" target="_blank">ARIIA  Report - 2021</a> <img src="https://vit.ac.in/images/New_icons_18.gif"></li><hr>
+
+
+
+<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="https://vit.ac.in/convocation" target="_blank">36<sup>th </sup>  Annual Convocation </a>  | <a href="https://www.youtube.com/watch?v=JzDMjJIqM_s" target="_blank"> Video </a>  |  <a href="https://vit.ac.in/detailview/36th-convocation-photos" target="_blank">Photos </a>
+</li><hr>
+
+<!--
+
+<li><i class="fa fa-angle-right" aria-hidden="true"></i>Results : <a href="https://admissionresults.vit.ac.in/ugcounselling/" target="_blank">UG Science & Humanities </a>  | <a href="https://admissions.vit.ac.in/ugresults/" target="_blank">B.Arch.| B.Sc. Agri | B.Des </a>
+</li><hr>
+
+
+<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="https://viteee.vit.ac.in" target="_blank">VITEEE 2021 / B. Tech. Admissions 2021  </a> | <a href="https://admissionresults.vit.ac.in/viteee/" target="_blank"> Results  </a>
+</li><hr>
+-->
+
+
+
+<!--
+
+<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="https://vit.ac.in/all-courses/ug" target="_blank"> B.Des | B.Arch.| B.Sc. Agri | UG Science & Humanities  2021 - VIT Vellore Campus</a><br>
+</li><hr>
+
+<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="https://vit.ac.in/all-courses/ug" target="_blank">B.Tech Fashion Technology</a> | <a href="https://vit.ac.in/all-courses/ug" target="_blank"> BBA (Honours) 2+2 programme and B.Com (Honours)</a> | <a href="https://vit.ac.in/all-courses/ug" target="_blank"> B.Sc Degree Programmes</a> | <a href="https://vit.ac.in/all-courses/ug" target="_blank"> BA. LL.B (Hons.) & BBA LL.B (Hons.) (5 Year)</a> - VIT Chennai Campus<br>
+</li><hr>
+-->
+<li><i class="fa fa-angle-right" aria-hidden="true"></i><a data-fancybox="" data-src="#popup_5137" href="javascript:void(0)"> Beware of VITEEE fake websites</a></li><hr>
+
+<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/national-institutional-ranking-framework-nirf"> NIRF</a></li><hr>
+
+<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="https://www.vidyalakshmi.co.in/Students/" target="_blank"> Vidya Lakshmi - Scholarship Portal</a></li><hr>
+</ul>
+</div>
+
+
+<div class="fancy_detail_popup wid_60 fancy_cir_x fancybox-content" id="popup_5137" style="display:none;">
+<h5><strong><font color="red">Beware of VITEEE fake websites</font> </strong></h5>
+
+<p><strong>We came to know that some fake websites are misusing our VITEEE name. Kindly be aware of fraud websites. Please visit only <a href="https://vit.ac.in"> https://vit.ac.in</a> for admissions.&nbsp;</strong></p>
+
+
+</div>                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>				
+            </div>
+        </div>
+    </section>
+    <section class="clearfix section why_choose why_choose_bac" id="tp_scr2">
+        <div class="section sticky_bl why_choose_bac">
+            <div class="container" >
+                <div class="choose_lf">
+<div class="row why_cnt pat_offic">
+<h3><a href="/ranking">Ranking and Accreditation</a></h3>
+
+<p><ul class="ul-list list_bullet placemet mar_bt_15">
+<li> <a href="https://vit.ac.in/vit-rank" target="_blank"><font color ="yellow" size = "3" > VIT National & Global Rankings 2021 </font></a></li>
+<li>Recognized as an<a href="https://vit.ac.in/vit-institution-eminence-ioe" target="_blank"><font color ="yellow" > Institution of Eminence by Govt. of India.</font></a></li>
+<li>No. 1 Private University for Innovation as recognized by<a href="https://vit.ac.in/ariia-award" target="_blank"><font color ="yellow" > ARIIA, Govt. of India.</font></a></li>
+<li>Seven subjects of VIT are ranked by <a href="https://vit.ac.in/qs-ranks-vit-one-among-top-12-institutions-india-engineering-and-technology" target="_blank"><font color ="yellow" > QS Global World Ranking.</font></a></li>
+
+<li>VIT is one among the top 10 in india and within 801-900 universities of the world as per <a href="https://vit.ac.in/vit-only-private-institution-india-shanghai-ranking-2021" target="_blank"><font color ="yellow" > Shanghai ARWU (Academic Ranking of World Universities) 2021</font></a></li></ul></p>
+
+
+</div>
+
+<div class="row why_cnt place_con">
+<h3><a href="/academics/InternationalRelations">International Relations</a></h3>
+
+<p>VIT has strong international presence across the <a href="https://vit.ac.in/internationalrelations/partneruniversities" target="_blank"><font color ="yellow" >world and partnerships with over 300 foreign universities</a></font>. VIT provides options to study 2 years at VIT and 2 years at a partner foreign university. One may also study a semester abroad or engage in international research collaboration.</p>
+</div>
+</div>
+
+<div class="choose_md"><img alt="" src="/sites/all/themes/vittheme/images/bulp-img.png" /></div>
+
+<div class="choose_rt">
+
+<div class="row why_cnt place_rec">
+<h3><a href="placements/statistics">Placements</a></h3>
+
+<ul class="ul-list list_bullet placemet mar_bt_15">
+<li>1630+ <a href="https://vit.ac.in/placements/dreamoffers" target="_blank"><font color ="yellow" >Dream Offers</font></a>, 650+ <a href="https://vit.ac.in/placements/superdreamoffers" target="_blank"><font color ="yellow" >Super Dream Offers</font></a></li>
+<li>900+ <a href="https://vit.ac.in/placements/dreamoffers" target="_blank"><font color ="yellow" >Dream </font> </a>& <a href="https://vit.ac.in/placements/internship" target="_blank"><font color ="yellow" >Super Dream Internship offers</font></a></li>
+	<li>1306+ Regular Offers</li>
+	<li><a href="https://vit.ac.in/placements/overview" target="_blank"><font color ="yellow" >7000+ Over all Offers</font></a></li>
+	<li><a href="https://vit.ac.in/vit-university-sets-record-limca-book-records" target="_blank"><font color ="yellow" >Limca Book of Records</font></a> for the 8th time for unbeatable placement records.</li>
+        <li><a href="https://vit.ac.in/placements/statistics" target="_blank"><font color ="yellow" >Highest CTC</font></a>: 41.6 Lakhs per annum</li>
+		
+</ul><br><br><br><br>
+</div>
+<div class="row why_cnt dream_off">
+<h3><a href="/admission-overview">Admissions</a></h3>
+
+<p>VIT Group of Institutions offer 64 <a href="https://vit.ac.in/all-courses/ug" target="_blank"><font color ="yellow" >Undergraduate</font></a>, 35<a href="https://vit.ac.in/all-courses/pg" target="_blank"><font color ="yellow" > Postgraduate</font></a>, 16 Integrated, 2 Research programmes and 2 M.Tech Industrial Programmes. In addition, full-time Ph.D. in Engineering and Management disciplines, Ph.D. in Science and Languages and Integrated Ph.D. programmes in engineering disciplines are offered.</p>
+</div>
+
+</div>
+
+
+
+
+            </div>
+        </div>
+    </section>
+    <section class="cleafix profile-quote section brown_bac scroll_btm" >
+        <div class="container">
+
+            <div class="view view-front-page-events-block view-id-front_page_events_block view-display-id-block_5 view-dom-id-90b4766d6e741174908009b993b6aebc">
+        
+  
+  
+      <div class="view-content">
+      		<div class="section row infocus_block" id="news_new">
+			<h2 class="newstitle"><span>News</span><a href="/all-news" class="v_all">View All</a></h2>
+
+							<div class="slde_nav_top_rg slde_nav_top_rg infocus_slide_visb">
+												
+																		
+								<div class="item image_des2">
+									<div class="inf_sl_deta">
+																		 	<div class="col-md-3 col-sm-6 col-xs-12" id="with_cont">
+										<div class="inf_sl_img hover_circle bord_li">
+										<a href="https://vit.ac.in/vit-student-won-gold-medal-archery-event-5th-pykka-national-games-held-jaipur"><img src="https://vit.ac.in/system/files/VIT-PRO00600620211115103150_press.jpg" class="norpaper_image" alt="VIT Student won Gold Medal in..." title="VIT Student won Gold Medal in... "></a>
+										</div>
+										<div class="inf_sl_cnt even_ti">
+											<h3 class="evn_title"> 
+											VIT Student won Gold Medal in...											 </h3>
+											 <p>
+											 Ms. P. Nithika (21BCC0275) has represented Tamil Nadu, and...							      </p>
+											
+											<div class="red_mo">
+												<a href="https://vit.ac.in/vit-student-won-gold-medal-archery-event-5th-pykka-national-games-held-jaipur"><button type="button" class="btn btn-default">Read More</button></a>
+											</div>
+									</div></div>
+									
+									 									</div>
+								</div>
+								
+							
+										
+								<div class="item image_des2">
+									<div class="inf_sl_deta">
+																		 	<div class="col-md-3 col-sm-6 col-xs-12" id="with_cont">
+										<div class="inf_sl_img hover_circle bord_li">
+										<a href="https://vit.ac.in/36th-annual-convocation-0"><img src="https://vit.ac.in/system/files/convocation36.png" class="norpaper_image" alt="36th Annual Convocation" title="36th Annual Convocation "></a>
+										</div>
+										<div class="inf_sl_cnt even_ti">
+											<h3 class="evn_title"> 
+											36th Annual Convocation											 </h3>
+											 <p>
+											 Students should dive deep into subjects and learn how to...							      </p>
+											
+											<div class="red_mo">
+												<a href="https://vit.ac.in/36th-annual-convocation-0"><button type="button" class="btn btn-default">Read More</button></a>
+											</div>
+									</div></div>
+									
+									 									</div>
+								</div>
+								
+							
+										
+								<div class="item image_des2">
+									<div class="inf_sl_deta">
+																		 	<div class="col-md-3 col-sm-6 col-xs-12" id="with_cont">
+										<div class="inf_sl_img hover_circle bord_li">
+										<a href="https://vit.ac.in/agrivaial-imparts-training-students-about-use-drones-organic-farming"><img src="https://vit.ac.in/system/files/Agri-Thum_1.jpg" class="norpaper_image" alt="Agri(Vaial) imparts training..." title="Agri(Vaial) imparts training... "></a>
+										</div>
+										<div class="inf_sl_cnt even_ti">
+											<h3 class="evn_title"> 
+											Agri(Vaial) imparts training...											 </h3>
+											 <p>
+											 For the first time in Tamil Nadu VIT School of...							      </p>
+											
+											<div class="red_mo">
+												<a href="https://vit.ac.in/agrivaial-imparts-training-students-about-use-drones-organic-farming"><button type="button" class="btn btn-default">Read More</button></a>
+											</div>
+									</div></div>
+									
+									 									</div>
+								</div>
+								
+							
+										
+								<div class="item image_des2">
+									<div class="inf_sl_deta">
+																		 	<div class="col-md-3 col-sm-6 col-xs-12" id="with_cont">
+										<div class="inf_sl_img hover_circle bord_li">
+										<a href="https://vit.ac.in/birth-anniversary-periyar-ev-ramasamy-0"><img src="https://vit.ac.in/system/files/periyar.png" class="norpaper_image" alt="Birth Anniversary of Periyar E.V. Ramasamy" title="Birth Anniversary of Periyar E.V. Ramasamy "></a>
+										</div>
+										<div class="inf_sl_cnt even_ti">
+											<h3 class="evn_title"> 
+											Birth Anniversary of Periyar...											 </h3>
+											 <p>
+											 Click here to view photo Gallery 
+							      </p>
+											
+											<div class="red_mo">
+												<a href="https://vit.ac.in/birth-anniversary-periyar-ev-ramasamy-0"><button type="button" class="btn btn-default">Read More</button></a>
+											</div>
+									</div></div>
+									
+									 									</div>
+								</div>
+								
+							
+				
+							
+						</div>
+					</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+        </div>
+
+    </section>
+
+    <section class="cleafix counter_section section" id="counter_sc">
+        <div class="row section">
+            <div class="container">
+                <div class="hm_counter counter_col">
+<div class="cunt_nm">
+<div class="count_span"><span class="count_tx">First</span></div>
+</div>
+<div class="cunt_txt">
+<p>No.1 Private Institution for Innovation (ARIIA 2019 Award) by Govt. of India</p>
+</div>
+</div>
+<div class="hm_counter counter_col">
+<div class="cunt_nm">
+<div class="count_span"><span class="count_tx">A++</span></div>
+</div>
+<div class="cunt_txt">
+<p>GRADE BY <br />
+NAAC, MHRD</p>
+</div>
+</div>
+<div class="hm_counter counter_col">
+<div class="cunt_nm">
+<div class="count_span"><span class="count_ani">190</span><sup class="plus">+</sup></div>
+</div>
+<div class="cunt_txt">
+<p>Foreign Adjunct Professors</p>
+</div>
+</div>
+<div class="hm_counter counter_col">
+<div class="cunt_nm">
+<div class="count_span"><span class="count_ani">300</span><sup class="plus">+</sup></div>
+</div>
+<div class="cunt_txt">
+<p>International<br />
+Partners</p>
+</div>
+</div>
+<div class="hm_counter counter_col">
+<div class="cunt_nm">
+<div class="count_span"><span class="count_ani">372</span><sup class="plus">acre</sup></div>
+</div>
+<div class="cunt_txt">
+<p>Eco-friendly campus with over<br />
+62 lakhs sq. feet built-up space</p>
+</div>
+</div>
+  
+            </div>
+        </div>
+    </section>
+    <section class="cleafix infocus section dark_green hm_infocus" id="tp_scr3">
+        <div class="section sticky_bl">
+            <div class="container">
+                <h2 class="title_1 title_border"><span>In Focus</span></h2>
+                <div class="section row infocus_block">
+                    <div class="infocus_slider owl-carousel owl-theme slde_nav_top_rg infocus_slide_visb">
+                                                        <div class="item image_des2">
+                                    <div class="inf_sl_deta">
+                                        <div class="inf_sl_img hover_circle">
+                                                    <a href="vit-alumnus-recognized-best-performing-ias-officer"><img alt="Best Performing IAS Officer" title="Best Performing IAS Officer" src="https://vit.ac.in/system/files/styles/infocus_home/private/vitaa-ias-opti_41c0c66cca8ff80bb810c0298c3d63d4.jpg?itok=vGB0OuEA"></a>
+                                        </div>
+                                        <div class="inf_sl_cnt">
+                                            <p>
+                                                VIT feels proud as its Alumnus, Mr. Rachit Raj, IAS, has been recognised as the "Best Performing IAS...                                            </p>
+                                            <div class="center clearfix focus_btn"><a href="vit-alumnus-recognized-best-performing-ias-officer" class="btn read_more_arrow hvr-sweep-to-right">Read More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="item image_des2">
+                                    <div class="inf_sl_deta">
+                                        <div class="inf_sl_img hover_circle">
+                                                    <a href="vit-sae-team-rotorfpv"><img alt="VIT SAE Team RotorFPV" title="VIT SAE Team RotorFPV" src="https://vit.ac.in/system/files/styles/infocus_home/private/VIT-SAE-TEAM_d90abb6a8471c282a9c5a7b44c93ccb7.jpg?itok=GkOdb4NT"></a>
+                                        </div>
+                                        <div class="inf_sl_cnt">
+                                            <p>
+                                                "VIT SAE Team RotorFPV" for their achievement in Asia D1 X IDRL Championship qualifier held online ...                                            </p>
+                                            <div class="center clearfix focus_btn"><a href="vit-sae-team-rotorfpv" class="btn read_more_arrow hvr-sweep-to-right">Read More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="item image_des2">
+                                    <div class="inf_sl_deta">
+                                        <div class="inf_sl_img hover_circle">
+                                                    <a href="5-teams-vit-qualify-finals-nasscom-–-ibm-all-india-hackathon"><img alt="5 Teams from VIT qualify for the finals of  NASSCOM – IBM All India Hackathon" title="5 Teams from VIT qualify for the finals of  NASSCOM – IBM All India Hackathon" src="https://vit.ac.in/system/files/styles/infocus_home/private/nasscom-1_39d2ecb2b0e422cddaa55992dab229be.jpg?itok=h6uoQTUB"></a>
+                                        </div>
+                                        <div class="inf_sl_cnt">
+                                            <p>
+                                                NASSCOM FutureSkills in collaboration with IBM organised a national level Hackathon which was open ...                                            </p>
+                                            <div class="center clearfix focus_btn"><a href="5-teams-vit-qualify-finals-nasscom-–-ibm-all-india-hackathon" class="btn read_more_arrow hvr-sweep-to-right">Read More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="item image_des2">
+                                    <div class="inf_sl_deta">
+                                        <div class="inf_sl_img hover_circle">
+                                                    <a href="virtual-track-competitions-communications-award"><img alt="Virtual off-track competitions- Communications award" title="Virtual off-track competitions- Communications award" src="https://vit.ac.in/system/files/styles/infocus_home/private/Shell-Eco-Marathon-Asia-2020_ef16fd0a0e9c49e481385dfb950ecbc8.jpg?itok=9rulabJD"></a>
+                                        </div>
+                                        <div class="inf_sl_cnt">
+                                            <p>
+                                                Team Eco Titans, the official super mileage team of VIT, has achieved first place in 'Virtual off-...                                            </p>
+                                            <div class="center clearfix focus_btn"><a href="virtual-track-competitions-communications-award" class="btn read_more_arrow hvr-sweep-to-right">Read More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="item image_des2">
+                                    <div class="inf_sl_deta">
+                                        <div class="inf_sl_img hover_circle">
+                                                    <a href="team-roverx-creation-labs-vit-vellore-has-achieved-new-milestone-year-scoring-9036-its-system"><img alt="Team RoverX from Creation labs of VIT Vellore has achieved a new milestone this year by scoring 90.36 in its System Acceptance Review (SAR)" title="Team RoverX from Creation labs of VIT Vellore has achieved a new milestone this year by scoring 90.36 in its System Acceptance Review (SAR)" src="https://vit.ac.in/system/files/styles/infocus_home/private/Rover-X-Worldwide_d17e8bc6001151e0d8e10d2cf3b76c7b.jpg?itok=d0nsnRRj"></a>
+                                        </div>
+                                        <div class="inf_sl_cnt">
+                                            <p>
+                                                Team RoverX from Creation labs of VIT Vellore has achieved a new milestone this year by scoring 90....                                            </p>
+                                            <div class="center clearfix focus_btn"><a href="team-roverx-creation-labs-vit-vellore-has-achieved-new-milestone-year-scoring-9036-its-system" class="btn read_more_arrow hvr-sweep-to-right">Read More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="item image_des2">
+                                    <div class="inf_sl_deta">
+                                        <div class="inf_sl_img hover_circle">
+                                                    <a href="3d-printing-play-major-role-mitigating-spread-covid-19-say-researchers-vit"><img alt="3D Printing to Play Major Role in Mitigating Spread of COVID-19” Say Researchers from VIT" title="3D Printing to Play Major Role in Mitigating Spread of COVID-19” Say Researchers from VIT" src="https://vit.ac.in/system/files/styles/infocus_home/private/3d-Printing-Lipid_opti_7be1c4043d42a461a600f8f813f13742.jpg?itok=S7FYY84O"></a>
+                                        </div>
+                                        <div class="inf_sl_cnt">
+                                            <p>
+                                                3D printing will evolve to play a major role in mitigating the spread of coronavirus, say ...                                            </p>
+                                            <div class="center clearfix focus_btn"><a href="3d-printing-play-major-role-mitigating-spread-covid-19-say-researchers-vit" class="btn read_more_arrow hvr-sweep-to-right">Read More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="item image_des2">
+                                    <div class="inf_sl_deta">
+                                        <div class="inf_sl_img hover_circle">
+                                                    <a href="article-published-hindu-business-line-co-authored-vit-alumnus-and-niti-aayog’s"><img alt="An article published by The Hindu Business line is co-authored by VIT alumnus and NITI Aayog’s" title="An article published by The Hindu Business line is co-authored by VIT alumnus and NITI Aayog’s" src="https://vit.ac.in/system/files/styles/infocus_home/private/Trends-in-India-and-the-World_opti1_0_ccce5c86c311f88855bd6294a047f1be.jpg?itok=ptK9frYG"></a>
+                                        </div>
+                                        <div class="inf_sl_cnt">
+                                            <p>
+                                                An article published by The Hindu Business line is co-authored by VIT alumnus and NITI Aayog’s ...                                            </p>
+                                            <div class="center clearfix focus_btn"><a href="article-published-hindu-business-line-co-authored-vit-alumnus-and-niti-aayog’s" class="btn read_more_arrow hvr-sweep-to-right">Read More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="item image_des2">
+                                    <div class="inf_sl_deta">
+                                        <div class="inf_sl_img hover_circle">
+                                                    <a href="students-robovitics-vit-have-designed-and-manufactured-3d-printed-prototypes-spare-parts-medical"><img alt="Students from RoboVITics, VIT, have designed and manufactured 3D printed prototypes of spare parts of medical equipment and PPEs to fight COVID-19" title="Students from RoboVITics, VIT, have designed and manufactured 3D printed prototypes of spare parts of medical equipment and PPEs to fight COVID-19" src="https://vit.ac.in/system/files/styles/infocus_home/private/RoboVITics-3D-Print-1_417ad3b78ba3afc35119accfec88b31c.jpg?itok=40FJ7bLy"></a>
+                                        </div>
+                                        <div class="inf_sl_cnt">
+                                            <p>
+                                                One such prototype includes the design of low-cost spare valves for ventilators and face-shields for...                                            </p>
+                                            <div class="center clearfix focus_btn"><a href="students-robovitics-vit-have-designed-and-manufactured-3d-printed-prototypes-spare-parts-medical" class="btn read_more_arrow hvr-sweep-to-right">Read More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+    
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="cleafix section gallery_section scroll_btm" id="tp_scr4">
+        <div class="container">
+            <div class="row section">
+                <div class="ful_wid_col gal_imgs gal_col">
+                    <img src="/sites/all/themes/vittheme/images/gallery_home.jpg" alt="VIT gallery" loading="lazy">
+                    <h3 class="txt_title">Photo Gallery</h3>
+                    <div class="ful_wid_cnt">
+                        <h3>Photo Gallery</h3>
+                        <a href="https://vit.ac.in/galleries" class="btn gal_explor hvr-sweep-to-right">Explore</a>
+                    </div>
+                </div>
+
+                <div class="ful_wid_col gal_imgs camp_col">
+                    <img src="/sites/all/themes/vittheme/images/campur_img.png" loading="lazy" alt="VIT Campus">
+                    <h3 class="txt_title">Campus Tour</h3>
+                    <div class="ful_wid_cnt">
+                        <h3>Campus Tour</h3>
+                        <a href="http://campustour.vit.ac.in/" target="_blank" class="btn gal_explor hvr-sweep-to-right">Explore</a>
+                    </div>
+                </div>
+                <div class="ful_wid_col gal_imgs video_gal_col">
+                    <img src="/sites/all/themes/vittheme/images/video_gal_img.png" loading="lazy" alt="VIT Video Gallery">
+                    <h3 class="txt_title">Video Gallery</h3>
+                    <div class="ful_wid_cnt">
+                        <h3>Video Gallery</h3>
+                        <a href="https://vit.ac.in/video" class="btn gal_explor hvr-sweep-to-right">Explore</a>
+                    </div>
+                </div>
+                <div class="ful_wid_col gal_imgs host_col">
+                    <img src="/sites/all/themes/vittheme/images/hostel_img.png" loading="lazy" alt="VIT Hostels">
+                    <h3 class="txt_title">Hostel</h3>
+                    <div class="ful_wid_cnt">
+                        <h3>Hostel</h3>
+                        <a href="https://vit.ac.in/campus-hostel/hostels" loading="lazy" class="btn gal_explor hvr-sweep-to-right">Explore</a>
+                    </div>
+                </div>
+                <div class="ful_wid_col gal_imgs guest_col">
+                    <img src="/sites/all/themes/vittheme/images/guest_img.png" loading="lazy" alt="VIT Guest House">
+                    <h3 class="txt_title">Guest House</h3>
+                    <div class="ful_wid_cnt">
+                        <h3>Guest House</h3>
+                        <a href="http://info.vit.ac.in/guesthouse/"  target="_blank" class="btn gal_explor hvr-sweep-to-right">Explore</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="cleafix section keepme_section">
+        <div class="container">
+            <div class="keepme_update">
+                
+                <div class="col-md-5 col-sm-5 col-lg-5 col-xs-12 u_keep">	
+                    <div class="keepe_txt">
+                        <h2>KEEP ME UPDATED</h2>
+                    </div>	
+                </div>	
+                <div class="col-md-7 col-sm-7 col-lg-7 col-xs-12" id="message_front">	
+                                        <div class="keepe_in_frm">	
+                        			
+                        <form action="/" method="post" id="webform_client_form_5773" accept-charset="UTF-8" autocomplete="off">
+                            <input type="hidden" name="form_id" value="webform_client_form_5773" />
+                            <input type="hidden" name="form_build_id" value="form-vVbwlBKhJjxA_E3l1NXu7hq2BRHVQPvdmDQGG6xv-CI" />
+                            	
+                            <div  class="form-item webform-component webform-component-textfield webform-component--name">
+  <label class="element-invisible" for="edit-submitted-name">Name <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" placeholder="Enter Your Name" type="text" id="edit-submitted-name" name="submitted[name]" value="" size="60" maxlength="30" class="form-text required" />
+</div>
+<div  class="form-item webform-component webform-component-email webform-component--email-id">
+  <label class="element-invisible" for="edit-submitted-email-id">Email id <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" class="email form-text form-email required" placeholder="Enter Your Mail id" type="email" id="edit-submitted-email-id" name="submitted[email_id]" size="60" />
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--mobile-number">
+  <label class="element-invisible" for="edit-submitted-mobile-number">Mobile Number <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" placeholder="Enter Mobile Number" type="text" id="edit-submitted-mobile-number" name="submitted[mobile_number]" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+
+                            <div class="submit_btn">
+                                <button type="submit" class="btn btn-default" id="sumbit_sbubtn">SUBMIT</button>
+                            </div>
+                        </form> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+	
+		<script type="text/javascript">
+	function serach_content(){ 
+jQuery.noConflict();
+         
+	   var search = jQuery('#srch').val();
+
+	      if((search == '') ||(search == 'Search') || (search == 'Please Enter Keyword')){ 
+
+		  jQuery('#srch').val("Please Enter Keyword");
+
+		  return false;
+
+		  }
+
+	   var url = "/search/node/";
+       window.location.href = url+search;
+
+	    return false;
+}
+
+
+	function handle(e){
+        if(e.keyCode === 13){
+            e.preventDefault(); // Ensure it is only this code that rusn
+
+            //alert("Enter was pressed was presses");
+			var search = jQuery('#srch').val();
+
+	      if((search == '') ||(search == 'Search') || (search == 'Please Enter Keyword')){ 
+
+		  jQuery('#srch').val("Please Enter Keyword");
+
+		  return false;
+
+		  }
+
+	   var url = "/search/node/";
+
+	    window.location.href = url+search;
+
+	    return false;
+        }
+    }
+	</script>
+				
+			
+			
+			<footer class="footer row section">					
+					<div class="footer_slide">
+						<div class="footer_top section">
+							<div class="foot_rit">
+							<div class="container">
+								<div class="row section">
+									
+									
+							
+									<div class="foot_col1">
+								
+							<script async="" defer="defer" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v11.0&amp;appId=193989021064596&amp;autoLogAppEvents=1" nonce="BNgnhBxk"></script><div class="row">
+<div class="col-sm-3">
+<div style="text-transform:uppercase;">
+<h3><font color="#fff">QUICK LINKS</font></h3>
+</div>
+<ul class="ul-list list_bullet placemet mar_bt_15"><li style="border-bottom:1px solid #999"><a alt="VIT Ranking and Accreditation" href="https://vit.ac.in/vit-rank/" target="_blank"><font color="#fff">Ranking &amp; Accreditation</font></a></li>
+<li style="border-bottom:1px solid #999"><a alt=" UG and PG Admissions in VIT" href="https://vit.ac.in/admissions/overview" target="_blank"><font color="#fff">Admissions</font></a></li>
+<li style="border-bottom:1px solid #999"><a alt="World Class Infrastructure" href="https://vit.ac.in/about/infrastructure" target="_blank"><font color="#fff">Infrastructure </font></a></li>
+<li style="border-bottom:1px solid #999"><a alt="VIT Research Centres for Academic and Sponsored Research Programme" href="https://vit.ac.in/research" target="_blank"><font color="#fff">Research @ VIT</font></a></li>
+<li style="border-bottom:1px solid #999"><a alt=" International Admissions, International Transfer program, Semester Abroad program" href="https://vit.ac.in/InternationalRelations" target="_blank"><font color="#fff">International Relations</font></a></li>
+<li style="border-bottom:1px solid #999"><a alt="VIT sitemap" href="https://vit.ac.in/sitemap/" target="_blank"><font color="#fff">Sitemap</font></a></li>
+</ul><div style="text-transform:uppercase;">
+<h3><font color="#fff">VITIANS </font></h3>
+</div>
+<ul class="ul-list list_bullet placemet mar_bt_15"><li style="border-bottom:1px solid #999"><a href="https://vit.ac.in/academics/iqac"><font color="#fff">IQAC</font></a></li>
+<li style="border-bottom:1px solid #999"><a href="https://vit.ac.in/vit-institution-eminence-ioe"><font color="#fff">Institution of Eminence (IoE)</font></a></li>
+<li style="border-bottom:1px solid #999"><a href="http://www.mhrdnats.gov.in/" target="_blank"><font color="#fff">NATS [National Apprenticeship Training Scheme]</font></a></li>
+<li style="border-bottom:1px solid #999"><a href="https://vit.ac.in/sites/default/files/footer_menu_doc/FormatGuidelines%20%283%29.doc" target="_blank"><font color="#fff">Industrial Visit (Format &amp; Guidelines)</font></a></li>
+<li style="border-bottom:1px solid #999"><a href="https://vit.ac.in/sites/default/files/Student-Code-of-Conduct.pdf" target="_blank"><font color="#fff">Students Code of Conduct</font></a></li>
+</ul><div style="text-transform:uppercase;">
+<h3><font color="#fff">VIT @ CONNECT </font></h3>
+</div>
+<ul class="ul-list list_bullet placemet mar_bt_15"><li style="border-bottom:1px solid #999"><a href="http://intranet.vit.ac.in/"><font color="#fff">Intranet</font></a></li>
+<li style="border-bottom:1px solid #999"><a href="https://vtop.vit.ac.in/vtop/initialProcess"><font color="#fff">Student Login</font></a></li>
+<li style="border-bottom:1px solid #999"><a href="https://peopleorbit.vit.ac.in//"><font color="#fff">Peopleorbit</font></a></li>
+<li style="border-bottom:1px solid #999"><a href="https://webmail.vit.ac.in/"><font color="#fff">VIT Webmail</font></a></li>
+<li style="border-bottom:1px solid #999"><a href="https://mail.google.com/"><font color="#fff">VIT Gmail</font></a></li>
+</ul></div>
+<div class="col-sm-3">
+<div style="text-transform:uppercase;">
+<h3><font color="#fff">VISITORS </font></h3>
+</div>
+<p> </p>
+<ul class="ul-list list_bullet placemet mar_bt_15"><li style="border-bottom:1px solid #999"><a href="https://careers.vit.ac.in/" target="_blank"><font color="#fff">Careers</font></a></li>
+<li style="border-bottom:1px solid #999"><a href="https://www.vitaa.org/" target="_blank"><font color="#fff">Alumni</font></a></li>
+<li style="border-bottom:1px solid #999"><a href="https://campustour.vit.ac.in/" target="_blank"><font color="#fff">Campus Tour</font></a></li>
+<li style="border-bottom:1px solid #999"><a href="https://vit.ac.in/contactus"><font color="#fff">Contact Us</font></a></li>
+</ul><div style="text-transform:uppercase;">
+<h3><font color="#fff">PARENTS</font></h3>
+</div>
+<ul class="ul-list list_bullet placemet mar_bt_15"><li style="border-bottom:1px solid #999"><a href="https://vtop.vit.ac.in/vtop/initialProcess" target="_blank"><font color="#fff">Parent Login</font></a></li>
+<li style="border-bottom:1px solid #999"><a href="https://vit.ac.in/campus-category/Counselling-Division"><font color="#fff">Counselling Division</font></a></li>
+<li style="border-bottom:1px solid #999"><a href="https://vit.ac.in/hotels-in-vellore"><font color="#fff">Hotels in Vellore </font></a></li>
+<li style="border-bottom:1px solid #999"><a href="https://vit.ac.in/guesthouse/"><font color="#fff">Guest House</font></a></li>
+<li style="border-bottom:1px solid #999"><a href="https://vit.ac.in/campuslife/overview"><font color="#fff">Campus life</font></a></li>
+</ul><div style="text-transform:uppercase;color:#fff">
+<h3>Committeess @ VIT</h3>
+</div>
+<ul class="ul-list list_bullet placemet mar_bt_15"><li><a href="https://vit.ac.in/iprcell" style="border-bottom:1px solid #FAFAFA"><font color="#fff">IPR Cell</font></a></li>
+<li><a href="https://vit.ac.in/internal-complaints-committee" style="border-bottom:1px solid #FAFAFA"><font color="#fff">Internal Complaints Committee (ICC)</font></a></li>
+<li><a href="https://vit.ac.in/campus-category/grievancecell" style="border-bottom:1px solid #FAFAFA"><font color="#fff">General Grievance Redressal Committee</font></a></li>
+<li><a href="https://vit.ac.in/anti-ragging-committee" style="border-bottom:1px solid #FAFAFA"><font color="#fff">Anti Ragging Committee</font></a></li>
+</ul></div>
+<div class="col-sm-3">
+<div class="fb-page" data-adapt-container-width="true" data-height="490" data-hide-cover="false" data-href="https://www.facebook.com/vituniversity/" data-show-facepile="true" data-small-header="false" data-tabs="timeline" data-width="350">
+<blockquote cite="https://www.facebook.com/vituniversity/" class="fb-xfbml-parse-ignore"><p><font color="#fff"><a href="https://www.facebook.com/vituniversity/">VIT</a></font></p></blockquote>
+</div>
+</div>
+<div class="col-sm-3"><a href="https://campustour.vit.ac.in" target="_blank"><img alt="" src="https://vit.ac.in/sites/default/files/campustour.png" /></a>
+<p> </p>
+<p><a href="https://vit.ac.in/career-development-centre" target="_blank"><img alt="" src="https://vit.ac.in/sites/default/files/placement-icon.png" /></a></p></div>
+</div>
+							
+														
+														
+							</div>
+						
+							</div>
+							<br>
+											
+				
+				
+							</div>
+						</div>
+						<div class="footer_bottom section">
+							<div class="container">
+							<div>
+<ul class="copy_right">
+	<li>Copyright© VIT</li>
+</ul>
+<span class="soclia_links"><a class="face_book_icon f_icon_be" href="https://www.facebook.com/VITuniversity/" title="facebook"></a><a class="twitter_icon f_icon_be" href="https://twitter.com/vit_univ" title="twitter"></a><a class="linkedin_icon f_icon_be" href="https://www.linkedin.com/school/vellore-institute-of-technology/" title="LinkedIn"></a> <a class="youbtube_icon f_icon_be" href="https://www.youtube.com/c/VITUniversityVellore" title="youtube"></a> <a class="insta_icon f_icon_be" href="https://www.instagram.com/vellore_vit/" title="instagram"></a></span></div>
+							</div>
+							
+							<hr style="border-top: 1px solid gray; margin: 5px 0px 5px 0px;" />
+							
+							<div class="container">
+								<div class="row">
+									<div class="col-lg-12" align="right">
+										<span style="font-size: 14px; color: white;">Last Updated : June 2021</span>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>		
+			</footer>
+			
+			
+			
+			<a href="#" class="scrollToTop"><i class="fa fa-chevron-up"></i></a>
+			<div class="main-nav-overlay"></div>
+			
+			
+</div>
+
+
+                  <script type="text/javascript" src="https://vit.ac.in/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://vit.ac.in/misc/drupal.js?r3f9us"></script>
+<script type="text/javascript" defer="defer">
+<!--//--><![CDATA[//><!--
+      // close script tag for SecKit protection
+      //--><!]]>
+      </script>
+      <script type="text/javascript" src="/sites/all/modules/seckit/js/seckit.document_write.js"></script>
+      <link type="text/css" rel="stylesheet" id="seckit-clickjacking-no-body" media="all" href="/sites/all/modules/seckit/css/seckit.no_body.css" />
+      <!-- stop SecKit protection -->
+      <noscript>
+      <link type="text/css" rel="stylesheet" id="seckit-clickjacking-noscript-tag" media="all" href="/sites/all/modules/seckit/css/seckit.noscript_tag.css" />
+      <div id="seckit-noscript-tag">
+        Sorry, you need to enable JavaScript to visit this website.
+      </div>
+      </noscript>
+      <script type="text/javascript">
+      <!--//--><![CDATA[//><!--
+      // open script tag to avoid syntax errors
+//--><!]]>
+</script>
+<script type="text/javascript" defer="defer" src="https://vit.ac.in/sites/all/modules/video/js/video.js?r3f9us"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"vittheme","theme_token":"VYwLeztfdxYni88Hnaqs-eJSSXLAEVG1vchRJ1odWTo","js":{"\/sites\/all\/themes\/vittheme\/js\/jquery-2.1.1.min.js":1,"\/sites\/all\/themes\/vittheme\/js\/common.js":1,"\/sites\/all\/themes\/vittheme\/js\/jquery.stuck.js":1,"\/sites\/all\/themes\/vittheme\/js\/owl.carousel.min.js":1,"\/sites\/all\/themes\/vittheme\/js\/jquery.fancybox.min.js":1,"\/sites\/all\/themes\/vittheme\/js\/scrolljs.js.js":1,"misc\/jquery.js":1,"misc\/drupal.js":1,"0":1,"sites\/all\/modules\/video\/js\/video.js":1},"css":{"sites\/all\/themes\/vittheme\/css\/bootstrap.min.css":1,"sites\/all\/themes\/vittheme\/css\/style.css":1,"sites\/all\/themes\/vittheme\/css\/theme.css":1,"sites\/all\/themes\/vittheme\/css\/combine.css":1,"sites\/all\/themes\/vittheme\/css\/responsive.css":1}},"encrypt_submissions":{"baseUrl":"https:\/\/vit.ac.in"}});
+//--><!]]>
+</script>
+		  <script type="text/javascript" defer="defer" src="/sites/all/themes/vittheme/js/jquery-2.1.1.min.js?r3f9us"></script>
+<script type="text/javascript" defer="defer" src="/sites/all/themes/vittheme/js/common.js?r3f9us"></script>
+<script type="text/javascript" defer="defer" src="/sites/all/themes/vittheme/js/jquery.stuck.js?r3f9us"></script>
+<script type="text/javascript" defer="defer" src="/sites/all/themes/vittheme/js/owl.carousel.min.js?r3f9us"></script>
+<script type="text/javascript" defer="defer" src="/sites/all/themes/vittheme/js/jquery.fancybox.min.js?r3f9us"></script>
+<script type="text/javascript" defer="defer" src="/sites/all/themes/vittheme/js/scrolljs.js.js?r3f9us"></script>
+		  		
+		<!-- Modal end -->
+		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-89338386-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-89338386-1');
+</script>
+
+	</div>
+</body>
+</html>
